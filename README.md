@@ -1,6 +1,8 @@
 # darklight
 darkweb search and metrics, btc,finance interface
 
+![subatomic](search.png) 
+
 The darklight engine is primarily a search engine for the tor network (darknet) that returns url's for hidden services
 via keyword search.
 <br>
@@ -23,6 +25,7 @@ There is also a 'Dark Markets Archive ' and a Finance section.
 The darklight engine has access to billions of data points and url's.
 <br><br>
 
+![tsla](tsla.png)
 
 <h3>The main user interfaces are;Tor Search , Tor Metrics, Tor Servers.</h3>
 <br>
@@ -30,7 +33,7 @@ The darklight engine has access to billions of data points and url's.
 <br>
 search tor; darknet keyword search returns onion urls as clickable links...1.25k data files (data...(search by 'keyword' or 'phrase'. ie:"dark market"
 <br>
-search relays ; search tor api for darknet relay details 8.5k...(internal api-'tor-api.json')...(search by 'relay'name.ie:"technofobe")
+search relays ; search tor api for darknet relay details 8.5k...(internal api-'tor-api.json')...(search by 'relay'name.ie:"technophobe")
 <br>
 search servers; search server details of the tor network 8.5k...(data)...(search by 'ip address'.ie: "5.189.155.39")
 <br>
@@ -118,4 +121,7 @@ disobay@proton.me
 <br>
 With the "name" and "onion url" ,it will be added to our 'recomendations' and made visible to users of The search engine. 
 <br>
+
+![tsla](vizbtc.png)
+
 Mulciber
