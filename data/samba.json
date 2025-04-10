@@ -1,0 +1,8 @@
+[
+    {
+        "content": "1\u00a0month, 3\u00a0weeks",
+        "description": "Learn how to install Samba 4.19 on FreeBSD 14. 1. Install Samba 4.19 Package Link to heading Begin by installing the Samba 4.19 server package using the FreeBSD package manager: pkg install samba419 2. Enable Samba Service Link to heading Enable the Samba service to start automatically on system bo\u2026",
+        "title": "Setting up Samba 4.19 on FreeBSD 14 \u00b7 Elder Rocker",
+        "url": "http://acnnwjkiuoqhexhtlhjr7plkbe7wfnkmjdkxw7uziuyymujkmyem6bid.onion"
+    }
+]
