@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<!-- Darkligh Engine-by 'Psico Communications'- written by Mulciber and Xendog -->
+<!--Content xml -  self updating news feeds for industry sectors-->
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <link rel="icon" type="image" a href="favicon.jpg">
+  <title>Darklight-indistry-news-feeds</title>
+  
+ <style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+	
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Adjust the value to set the space between buttons horizontally */
+    margin-bottom: 10px; /* Adjust the value to set the space between button rows vertically */
+}
+</style>
+  
+  
+ 
+</head>
+<body><button onclick="goBack()" style="position: absolute; top: 10px; left: 10px;">Go Back</button>
+<br><br><center><h2>Industry news feeds by catagory.</h2>
+<br><br><br><br>
+
+<button id="clearButton" onclick="clearData()">Clear Data</button>
+</center>
+<br><br>
+
+    <div id="xmlContainer"></div>
+   <center> <div id="print-out"></div></center>
+   <br>
+    <script>
+        const industries = ['Agriculture', 'Advertising', 'Aerospace-Defence', 'Airlines-Aviation','Alternative Energy','Auto Manufacturers','Banking-Financial-Services','Bioplastics','Biotechnology','Blockchain','Cannabis','Cannabis-Ancillary','Cannabis Breeder','Cannabis Cultivator','Cannabis Dispensary','Cannabis Extractor','Cannabis Manufacturer','Chemical','Cloud','Computer Hardware',
+            'Computer Networks',
+            'Computer Software',
+            'Computer-Electronics',
+            'Construction-Building',
+            'Consumer Electronics',
+            'Diamonds',
+            'Education',
+            'Electronic Commerce',
+            'Electronic Components',
+            'Electronic Testers',
+            'Energy',
+			'Energy Metals',
+            'Entertainment',
+            'Environmental Services',
+            'Fashion',
+            'Film',
+            'Food-Beverages',
+            'Gambling-Casinos',
+            'Gaming-Lottery',
+            'Health',
+            'Health-care-Hospitals',
+            'Household-Consumer-Cosmetics',
+            'Housing',
+            'Insurance',
+            'Internet Technology',
+            'Investment Banking',
+            'Leisure-Travel-Hotels',
+            'Machinery',
+			'Mining-Metals',
+'Mortgages',
+'Multimedia-Internet-Online-Services',
+'Mutual Funds',
+'Non-Ferrous-Metals',
+'Office Products',
+'Oil-Gas',
+'Packaging',
+'Paper-Forest Products',
+'Pharmaceuticals',
+'Precious Metals',
+'Psychedelics',
+'Publishing-Informational-Services',
+'Rare Earths',
+'Real Estate',
+'Retail',
+'Semiconductors',
+'Sensor',
+'Sports',
+'Technology',
+'Telecommunications',
+'Television',
+'Textiles-Apparel',
+'Transporation-trucking-railroads',
+'Travel',
+'Utilities',
+'Virtual Reality'
+
+			
+			];
+
+        industries.forEach(industry => {
+            const button = document.createElement('button');
+            button.textContent = ` ${industry}`;
+            button.addEventListener('click', () => loadXML(industry));
+            document.body.appendChild(button);
+        });
+
+        function loadXML(industry) {
+            const formattedIndustry = industry.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+            const xmlUrl = `https://feeds.newsfilecorp.com/industry/${formattedIndustry}`;
+            
+            const xmlFrame = document.getElementById('xmlContainer');
+            xmlFrame.innerHTML = `<iframe style="width: 100%; height: 800px; border: 1px solid black;" src="${xmlUrl}"></iframe>`;
+        }
+    </script>
+	<script>
+	function clearData() {
+        const quoteResultsDiv = document.getElementById('xmlContainer');
+        
+        // Clear the contents of the div
+        quoteResultsDiv.innerHTML = '';
+    }
+	</script>
+	 <script>
+        // Function to navigate back to the previous page
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+	
+	<script src="welcome-industry-feeds.js"></script>
+	 <br><br>	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+	<br><br><br><br>
+	<hr>
+	<div id="buttonRow" style="display: flex; justify-content: center;">
+        <button onclick="window.location.href='search.html'">search tor</button>
+        
+        <button onclick="window.location.href='libris.html'">project gutenberg</button>
+        <button onclick="window.location.href='wiki-search.html'">wikipedia</button>
+		<button onclick="window.location.href='sourceforge.html'">sourceforge</button>
+		<button onclick="window.location.href='wayback.html'">internet archive</button>
+		<button onclick="window.location.href='git.html'">github</button>
+		<button onclick="window.location.href='archive.html'">dark markets archive</button>
+		<button onclick="window.location.href='finance.html'">finance</button>
+		
+    </div>
+</body>
+</html>

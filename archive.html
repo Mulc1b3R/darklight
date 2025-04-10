@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkLight: Darknet Markets Archive</title>
+	 <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image" a href="favicon.jpg">
+	<style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+			#searchInput {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+	margin-right: 10px; /* Adjust the value to set the desired space between buttons */
+}
+</style>
+</head>
+<body>
+<a href="search.html" style="position: absolute; top: 10px; right: 10px;">
+    <button style="your-button-styles-here">search</button>
+</a>
+<br><br>
+<!-- Begin page content -->
+        <main id="maincontent">
+          <div class="container container-ia">
+
+              <div class="download-directory-listing">
+      <h1>Darklight engine : darknet market archive downloads</h1>
+      <hr>
+<pre>
+Dark Net Markets (DNM's) are online markets typically hosted as Tor hidden services providing escrow services between buyers & sellers transacting in Bitcoin or other crypto,
+ <br>
+usually for drugs or other illegal/regulated goods; the most famous DNM was Silk Road 1, which pioneered the business model in 2011.
+<br>
+From between 2013–2015, Gwern Branwen scraped/mirrored on a weekly or daily basis all existing English-language DNMs as part of his research into their usage,
+ <br>
+lifetimes/characteristics, & legal riskiness; these scrapes covered vendor pages, feedback, images, etc. 
+<br>
+In addition, he made or obtained copies of as many other datasets & documents related to the DNMs as he could.
+<br>
+This uniquely comprehensive collection is now publicly released as a 50GB (~1.6TB uncompressed) collection covering 89 DarkNet Markets & 37+ related forums, 
+<br>
+representing over 4,438 mirrors, this archived data is presented here for the sake of posterity and/or any research.
+
+Clicking the links will trigger automatic downloads of the data sets provided , please note the filesize prior to download as some of the files are large ...
+</pre>
+<hr>
+<br><br>
+<div id="rendered-content"></div>
+   <!-- Include script to load archive -->
+	<script src="js/archive.js"></script>  
+
+
+<br><br>	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+   
+ <div id="buttonRow" style="display: flex; justify-content: center;">
+        <button onclick="window.location.href='search.html'">search tor</button>
+        <button onclick="window.location.href='metrics.html'">tor relays</button>
+        <button onclick="window.location.href='server.html'">tor servers</button>
+        <button onclick="window.location.href='libris.html'">project gutenberg</button>
+        <button onclick="window.location.href='wiki-search.html'">wikipedia</button>
+		<button onclick="window.location.href='sourceforge.html'">sourceforge</button>
+		<button onclick="window.location.href='wayback.html'">internet archive</button>
+		<button onclick="window.location.href='git.html'">github</button>
+		<button onclick="window.location.href='archive.html'">dark markets archive</button>
+		<button onclick="window.location.href='finance.html'">finance</button>
+		<button onclick="window.location.href='api-data.html'">api's</button>
+    </div>
+	
+</body>
+</html>
