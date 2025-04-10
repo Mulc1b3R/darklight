@@ -1,0 +1,3446 @@
+[
+    {
+        "symbol": "AA",
+        "name": "Alcoa Corporation"
+    },
+    {
+        "symbol": "AAU",
+        "name": "Almaden Minerals Ltd."
+    },
+    {
+        "symbol": "AAT",
+        "name": "American Assets Trust, Inc."
+    },
+    {
+        "symbol": "AAP",
+        "name": "Advance Auto Parts, Inc."
+    },
+    {
+        "symbol": "AAN",
+        "name": "The Aaron's Company, Inc."
+    },
+    {
+        "symbol": "AAM",
+        "name": "American Axle & Manufacturing Hldngs Inc"
+    },
+    {
+        "symbol": "AAL",
+        "name": "American Airlines Group Inc."
+    },
+    {
+        "symbol": "AAC",
+        "name": "Ares Acquisition Corporation"
+    },
+    {
+        "symbol": "AAA",
+        "name": "AXS First Priority CLO Bond ETF"
+    },
+    {
+        "symbol": "AAXT",
+        "name": "Aamaxan Transport Group, Inc."
+    },
+    {
+        "symbol": "AAXJ",
+        "name": "iShares MSCI All Country Asia ex Japan ETF"
+    },
+    {
+        "symbol": "AAWW",
+        "name": "Atlas Air Worldwide Holdings, Inc."
+    },
+    {
+        "symbol": "AAWH",
+        "name": "Ascend Wellness Holdings, Inc."
+    },
+    {
+        "symbol": "AATV",
+        "name": "Adaptive Ad Systems, Inc."
+    },
+    {
+        "symbol": "AATP",
+        "name": "Agape ATP Corporation"
+    },
+    {
+        "symbol": "AATC",
+        "name": "Autoscope Technologies Corporation"
+    },
+    {
+        "symbol": "AASP",
+        "name": "Global Acquisitions Corporation"
+    },
+    {
+        "symbol": "AAQC",
+        "name": "Accelerate Acquisition Corp."
+    },
+    {
+        "symbol": "AAPY",
+        "name": "Kurv Yield Premium Strategy Apple (AAPL) ETF"
+    },
+    {
+        "symbol": "AAPU",
+        "name": "Direxion Daily AAPL Bull 1.5X Shares"
+    },
+    {
+        "symbol": "AAPT",
+        "name": "All American Pet Company, Inc."
+    },
+    {
+        "symbol": "AAPL",
+        "name": "Apple Inc."
+    },
+    {
+        "symbol": "AAPJ",
+        "name": "AAP, Inc."
+    },
+    {
+        "symbol": "AAPD",
+        "name": "Direxion Daily AAPL Bear 1X Shares"
+    },
+    {
+        "symbol": "AAPB",
+        "name": "GraniteShares ETF Trust - GraniteShares 2x Long Tilray Daily ETF"
+    },
+    {
+        "symbol": "AAON",
+        "name": "AAON, Inc."
+    },
+    {
+        "symbol": "AAOI",
+        "name": "Applied Optoelectronics, Inc."
+    },
+    {
+        "symbol": "AAME",
+        "name": "Atlantic American Corporation"
+    },
+    {
+        "symbol": "AAMC",
+        "name": "Altisource Asset Management Corporation"
+    },
+    {
+        "symbol": "AAIN",
+        "name": "Arlington Asset Investment Corp"
+    },
+    {
+        "symbol": "AAIC",
+        "name": "Arlington Asset Investment Corp."
+    },
+    {
+        "symbol": "AAGR",
+        "name": "African Agriculture Holdings Inc."
+    },
+    {
+        "symbol": "AAGH",
+        "name": "America Great Health"
+    },
+    {
+        "symbol": "AAGC",
+        "name": "All American Gold Corp."
+    },
+    {
+        "symbol": "AADR",
+        "name": "AdvisorShares Dorsey Wright ADR ETF"
+    },
+    {
+        "symbol": "AADI",
+        "name": "Aadi Bioscience, Inc."
+    },
+    {
+        "symbol": "AACT",
+        "name": "Ares Acquisition Corporation II"
+    },
+    {
+        "symbol": "AACS",
+        "name": "American Commerce Solutions, Inc."
+    },
+    {
+        "symbol": "AACI",
+        "name": "Armada Acquisition Corp. I"
+    },
+    {
+        "symbol": "AACG",
+        "name": "ATA Creativity Global"
+    },
+    {
+        "symbol": "AABB",
+        "name": "Asia Broadband, Inc."
+    },
+    {
+        "symbol": "AAAU",
+        "name": "Goldman Sachs Physical Gold ETF"
+    },
+    {
+        "symbol": "AAZ.V",
+        "name": "Azincourt Energy Corp."
+    },
+    {
+        "symbol": "AAZ.L",
+        "name": "Anglo Asian Mining PLC"
+    },
+    {
+        "symbol": "AAYYY",
+        "name": "Australian Agricultural Company Limited"
+    },
+    {
+        "symbol": "AAX.V",
+        "name": "Advance Lithium Corp."
+    },
+    {
+        "symbol": "AAVXF",
+        "name": "ABIVAX Soci\u00c3\u00a9t\u00c3\u00a9 Anonyme"
+    },
+    {
+        "symbol": "AAVVF",
+        "name": "Advantage Energy Ltd."
+    },
+    {
+        "symbol": "AAVMY",
+        "name": "ABN AMRO Bank N.V."
+    },
+    {
+        "symbol": "AAU.V",
+        "name": "Angold Resources Ltd."
+    },
+    {
+        "symbol": "AAU.L",
+        "name": "Ariana Resources plc"
+    },
+    {
+        "symbol": "AAUKF",
+        "name": "Anglo American plc"
+    },
+    {
+        "symbol": "AAUGF",
+        "name": "Angold Resources Ltd."
+    },
+    {
+        "symbol": "AAT.V",
+        "name": "ATI Airtest Technologies Inc."
+    },
+    {
+        "symbol": "AATRL",
+        "name": "Amg Capital Trust II"
+    },
+    {
+        "symbol": "AATGF",
+        "name": "ATI Airtest Technologies Inc."
+    },
+    {
+        "symbol": "AASZF",
+        "name": "Atlantic Sapphire ASA"
+    },
+    {
+        "symbol": "AAS.L",
+        "name": "abrdn Asia Focus plc"
+    },
+    {
+        "symbol": "AASCX",
+        "name": "Thrivent Mid Cap Stock Fund Class A"
+    },
+    {
+        "symbol": "AARTY",
+        "name": "Airtel Africa Plc"
+    },
+    {
+        "symbol": "AARTX",
+        "name": "Stone Ridge Trust VIII"
+    },
+    {
+        "symbol": "AAQCW",
+        "name": "Accelerate Acquisition Corp."
+    },
+    {
+        "symbol": "AANTX",
+        "name": "American Funds 2060 Target Date Retirement Fund"
+    },
+    {
+        "symbol": "AANNF",
+        "name": "Aroundtown SA"
+    },
+    {
+        "symbol": "AAMTF",
+        "name": "Armada Mercantile Ltd."
+    },
+    {
+        "symbol": "AAMMF",
+        "name": "Almadex Minerals Ltd."
+    },
+    {
+        "symbol": "AAMAF",
+        "name": "Atlas Mara Limited"
+    },
+    {
+        "symbol": "AALTX",
+        "name": "American Funds 2050 Trgt Date Retire A"
+    },
+    {
+        "symbol": "AAL.L",
+        "name": "Anglo American plc"
+    },
+    {
+        "symbol": "AALBF",
+        "name": "Aalberts N.V."
+    },
+    {
+        "symbol": "AAISX",
+        "name": "American Beacon International Equity Fund Advisor Class"
+    },
+    {
+        "symbol": "AAIRF",
+        "name": "American Aires Inc."
+    },
+    {
+        "symbol": "AAIPX",
+        "name": "American Beacon International Equity Fund Investor Class"
+    },
+    {
+        "symbol": "AAIIQ",
+        "name": "Alabama Aircraft Industries, Inc"
+    },
+    {
+        "symbol": "AAIGF",
+        "name": "AIA Group Limited"
+    },
+    {
+        "symbol": "AAIEX",
+        "name": "American Beacon International Equity Fund"
+    },
+    {
+        "symbol": "AAIDX",
+        "name": "Axonic Alternative Income Fund"
+    },
+    {
+        "symbol": "AAG.V",
+        "name": "Aftermath Silver Ltd."
+    },
+    {
+        "symbol": "AAGTX",
+        "name": "American Funds 2040 Target Date Retirement Fund Class A"
+    },
+    {
+        "symbol": "AAGRY",
+        "name": "PT Astra Agro Lestari Tbk"
+    },
+    {
+        "symbol": "AAGRW",
+        "name": "African Agriculture Holdings Inc."
+    },
+    {
+        "symbol": "AAGPX",
+        "name": "American Beacon Large Cap Value Fund Investor Class"
+    },
+    {
+        "symbol": "AAGIY",
+        "name": "AIA Group Limited"
+    },
+    {
+        "symbol": "AAGFF",
+        "name": "Aftermath Silver Ltd."
+    },
+    {
+        "symbol": "AAGEF",
+        "name": "AAG Energy Holdings Limited"
+    },
+    {
+        "symbol": "AAFTX",
+        "name": "American Funds 2035 Target Date Retirement Fund"
+    },
+    {
+        "symbol": "AAFRF",
+        "name": "Airtel Africa Plc"
+    },
+    {
+        "symbol": "AAF.L",
+        "name": "Airtel Africa Plc"
+    },
+    {
+        "symbol": "AAEEF",
+        "name": "Altair Resources Inc."
+    },
+    {
+        "symbol": "AADEX",
+        "name": "American Beacon Large Cap Value R5"
+    },
+    {
+        "symbol": "AADBX",
+        "name": "American Beacon Balanced Fund R5 Class"
+    },
+    {
+        "symbol": "AACTF",
+        "name": "Aurora Solar Technologies Inc."
+    },
+    {
+        "symbol": "AACQU",
+        "name": "Artius Acquisition Inc."
+    },
+    {
+        "symbol": "AACIW",
+        "name": "Armada Acquisition Corp. I"
+    },
+    {
+        "symbol": "AACIU",
+        "name": "Armada Acquisition Corp. I"
+    },
+    {
+        "symbol": "AACAY",
+        "name": "AAC Technologies Holdings Inc."
+    },
+    {
+        "symbol": "AACAF",
+        "name": "AAC Technologies Holdings Inc."
+    },
+    {
+        "symbol": "AABVF",
+        "name": "Aberdeen International Inc."
+    },
+    {
+        "symbol": "AABPX",
+        "name": "American Beacon Balanced Fund"
+    },
+    {
+        "symbol": "AAALY",
+        "name": "Aareal Bank AG"
+    },
+    {
+        "symbol": "AAALF",
+        "name": "Aareal Bank AG"
+    },
+    {
+        "symbol": "AAACX",
+        "name": "Alpha Alternative Assets Fund"
+    },
+    {
+        "symbol": "AA4.L",
+        "name": "Amedeo Air Four Plus Limited"
+    },
+    {
+        "symbol": "AAGUSD",
+        "name": "AAG USD"
+    },
+    {
+        "symbol": "AAV.TO",
+        "name": "Advantage Energy Ltd."
+    },
+    {
+        "symbol": "AAVC.L",
+        "name": "Albion Venture Capital Trust PLC"
+    },
+    {
+        "symbol": "AAV.BK",
+        "name": "Asia Aviation Public Company Limited"
+    },
+    {
+        "symbol": "AAU.AX",
+        "name": "Antilles Gold Limited"
+    },
+    {
+        "symbol": "AAT.WA",
+        "name": "Alta S.A."
+    },
+    {
+        "symbol": "AATG.L",
+        "name": "Albion Technology & General VCT PLC"
+    },
+    {
+        "symbol": "AASU.L",
+        "name": "Amundi Index Solutions - Amundi MSCI Em Asia UCITS ETF-C USD"
+    },
+    {
+        "symbol": "AASG.L",
+        "name": "Amundi Index Solutions - Amundi MSCI Em Asia UCITS ETF-C USD"
+    },
+    {
+        "symbol": "AAR.AX",
+        "name": "Astral Resources NL"
+    },
+    {
+        "symbol": "AAPS.L",
+        "name": "Leverage Shares 3x Short Apple (AAPL) ETP Securities"
+    },
+    {
+        "symbol": "AAPL.L",
+        "name": "LEVERAGE SHARES PUBLIC LIMITED "
+    },
+    {
+        "symbol": "AAPE.L",
+        "name": "Leverage Shares 2x Apple ETC A"
+    },
+    {
+        "symbol": "AAP.AX",
+        "name": "Australian Agricultural Projects Ltd"
+    },
+    {
+        "symbol": "AAP3.L",
+        "name": "Leverage Shares 3x Apple ETC"
+    },
+    {
+        "symbol": "AAP2.L",
+        "name": "Leverage Shares 2x Apple ETC A"
+    },
+    {
+        "symbol": "AAP1.L",
+        "name": "LEVERAGE SHARES PUBLIC LIMITED "
+    },
+    {
+        "symbol": "AAM.SW",
+        "name": "Anglo American plc"
+    },
+    {
+        "symbol": "AAM-PB",
+        "name": "Apollo Global Management, Inc."
+    },
+    {
+        "symbol": "AAM-PA",
+        "name": "Apollo Global Management, Inc."
+    },
+    {
+        "symbol": "AAM.AX",
+        "name": "AuMEGA Metals Ltd"
+    },
+    {
+        "symbol": "AALI.V",
+        "name": "Advance Lithium Corp."
+    },
+    {
+        "symbol": "AAL.BO",
+        "name": "A-1 Acid Limited"
+    },
+    {
+        "symbol": "AAL.AX",
+        "name": "Alfabs Australia Limited"
+    },
+    {
+        "symbol": "AAK.ST",
+        "name": "AAK AB (publ.)"
+    },
+    {
+        "symbol": "AAJ.AX",
+        "name": "Aruma Resources Limited"
+    },
+    {
+        "symbol": "AAIF.L",
+        "name": "abrdn Asian Income Fund Limited"
+    },
+    {
+        "symbol": "AAI.BK",
+        "name": "Asian Alliance International Public Company Limited"
+    },
+    {
+        "symbol": "AAI.AX",
+        "name": "Alcoa Corporation"
+    },
+    {
+        "symbol": "AAG.DE",
+        "name": "Aumann AG"
+    },
+    {
+        "symbol": "AAEV.L",
+        "name": "Albion Enterprise VCT PLC"
+    },
+    {
+        "symbol": "AADV.L",
+        "name": "Albion Development VCT PLC"
+    },
+    {
+        "symbol": "AAD.DE",
+        "name": "Amadeus FiRe AG"
+    },
+    {
+        "symbol": "AAC-WT",
+        "name": "Ares Acquisition Corporation Re"
+    },
+    {
+        "symbol": "AAC-UN",
+        "name": "Ares Acquisition Corporation"
+    },
+    {
+        "symbol": "AAC.ST",
+        "name": "AAC Clyde Space AB (publ)"
+    },
+    {
+        "symbol": "AAC.PA",
+        "name": "Accor Acquisition Company S.A."
+    },
+    {
+        "symbol": "AAC.AX",
+        "name": "Australian Agricultural Company Limited"
+    },
+    {
+        "symbol": "AAB.TO",
+        "name": "Aberdeen International Inc."
+    },
+    {
+        "symbol": "AAB.CO",
+        "name": "Aalborg Boldspilklub A/S"
+    },
+    {
+        "symbol": "AAAP.L",
+        "name": "Anglo African Agriculture Plc"
+    },
+    {
+        "symbol": "AAA.PA",
+        "name": "Alan Allman Associates"
+    },
+    {
+        "symbol": "AAA.AX",
+        "name": "BetaShares Australian High Interest Cash ETF"
+    },
+    {
+        "symbol": "AAA.AS",
+        "name": "AP Alternative Assets LP"
+    },
+    {
+        "symbol": "AAVEUSD",
+        "name": "Aave USD"
+    },
+    {
+        "symbol": "AARTUSD",
+        "name": "ALL.ART"
+    },
+    {
+        "symbol": "AAUC.TO",
+        "name": "Allied Gold Corporation"
+    },
+    {
+        "symbol": "AASI.PA",
+        "name": "Amundi Index Solutions - Amundi MSCI Em Asia"
+    },
+    {
+        "symbol": "AASB.OL",
+        "name": "Aasen Sparebank"
+    },
+    {
+        "symbol": "AAQC-WT",
+        "name": "Accelerate Acquisition Corp."
+    },
+    {
+        "symbol": "AAQC-UN",
+        "name": "Accelerate Acquisition Corp."
+    },
+    {
+        "symbol": "AAQ1.DE",
+        "name": "aap Implantate AG"
+    },
+    {
+        "symbol": "AAPL.NE",
+        "name": "Apple Inc."
+    },
+    {
+        "symbol": "AAPL.MX",
+        "name": "Apple Inc."
+    },
+    {
+        "symbol": "AAPL.DE",
+        "name": "15994"
+    },
+    {
+        "symbol": "AALI.JK",
+        "name": "PT Astra Agro Lestari Tbk"
+    },
+    {
+        "symbol": "AALB.AS",
+        "name": "Aalberts N.V."
+    },
+    {
+        "symbol": "AAIL.BO",
+        "name": "Akar Auto Industries Limited"
+    },
+    {
+        "symbol": "AAIC-PC",
+        "name": "Arlington Asset Investment Corp."
+    },
+    {
+        "symbol": "AAIC-PB",
+        "name": "Arlington Asset Investment Corp."
+    },
+    {
+        "symbol": "AADA.SW",
+        "name": "21Shares Cardano ETP"
+    },
+    {
+        "symbol": "AADA.PA",
+        "name": "21Shares Cardano ETP"
+    },
+    {
+        "symbol": "AACT-UN",
+        "name": "Ares Acquisition Corporation II"
+    },
+    {
+        "symbol": "AAAK.AT",
+        "name": "Wool Industry Tria Alfa S.A."
+    },
+    {
+        "symbol": "AAVAS.NS",
+        "name": "Aavas Financiers Limited"
+    },
+    {
+        "symbol": "AAVAS.BO",
+        "name": "Aavas Financiers Limited"
+    },
+    {
+        "symbol": "AARVI.NS",
+        "name": "Aarvi Encon Limited"
+    },
+    {
+        "symbol": "AARON.NS",
+        "name": "Aaron Industries Limited"
+    },
+    {
+        "symbol": "AALR3.SA",
+        "name": "Centro de Imagem Diagn\u00c3\u00b3sticos S.A."
+    },
+    {
+        "symbol": "AAYUSH.BO",
+        "name": "Aayush Food and Herbs Limited"
+    },
+    {
+        "symbol": "AASHKA.BO",
+        "name": "Aashka Hospitals Limited"
+    },
+    {
+        "symbol": "AARNAV.BO",
+        "name": "AARNAV FASHIONS LIMITED"
+    },
+    {
+        "symbol": "AALLON.HE",
+        "name": "Aallon Group Oyj"
+    },
+    {
+        "symbol": "AAKASH.NS",
+        "name": "Aakash Exploration Services Limited"
+    },
+    {
+        "symbol": "AARTECH.NS",
+        "name": "Aartech Solonics Ltd"
+    },
+    {
+        "symbol": "AARTECH.BO",
+        "name": "Aartech Solonics Limited"
+    },
+    {
+        "symbol": "AADIIND.BO",
+        "name": "Aadi Industries Limited"
+    },
+    {
+        "symbol": "AAATECH.NS",
+        "name": "AAA Technologies Limited"
+    },
+    {
+        "symbol": "AAATECH.BO",
+        "name": "AAA Technologies Limited"
+    },
+    {
+        "symbol": "AASTAFIN.BO",
+        "name": "Aastamangalam Finance Limited"
+    },
+    {
+        "symbol": "AARTIIND.NS",
+        "name": "Aarti Industries Limited"
+    },
+    {
+        "symbol": "AARTIIND.BO",
+        "name": "Aarti Industries Limited"
+    },
+    {
+        "symbol": "AARSHYAM.BO",
+        "name": "Aar Shyam India Investment Com"
+    },
+    {
+        "symbol": "AADA-USD.SW",
+        "name": "21Shares Cardano ETP"
+    },
+    {
+        "symbol": "AADA-USD.AS",
+        "name": "21Shares Cardano ETP"
+    },
+    {
+        "symbol": "AARVEEDEN.NS",
+        "name": "Aarvee Denims and Exports Ltd."
+    },
+    {
+        "symbol": "AARVEEDEN.BO",
+        "name": "Aarvee Denims and Exports Ltd."
+    },
+    {
+        "symbol": "AARTISURF.NS",
+        "name": "Aarti Surfactants Limited"
+    },
+    {
+        "symbol": "AARTISURF.BO",
+        "name": "Aarti Surfactants Limited"
+    },
+    {
+        "symbol": "AARTIPHARM.NS",
+        "name": "Aarti Pharmalabs Limited"
+    },
+    {
+        "symbol": "AARTIPHARM.BO",
+        "name": "Aarti Pharmalabs Limited"
+    },
+    {
+        "symbol": "AARTIDRUGS.NS",
+        "name": "Aarti Drugs Limited"
+    },
+    {
+        "symbol": "AARTIDRUGS.BO",
+        "name": "Aarti Drugs Limited"
+    },
+    {
+        "symbol": "AAREYDRUGS.NS",
+        "name": "Aarey Drugs & Pharmaceuticals Limited"
+    },
+    {
+        "symbol": "AAPLUSTRAD.BO",
+        "name": "AA Plus Tradelink Limited"
+    },
+    {
+        "symbol": "AANCHALISP.BO",
+        "name": "Aanchal Ispat Limited"
+    },
+    {
+        "symbol": "AANANDALAK.BO",
+        "name": "Aananda Lakshmi Spinning Mills Limited"
+    },
+    {
+        "symbol": "AIR",
+        "name": "AAR Corp."
+    },
+    {
+        "symbol": "0NX1.IL",
+        "name": "Aalberts N.V."
+    },
+    {
+        "symbol": "GHSTUSD",
+        "name": "Aavegotchi USD"
+    },
+    {
+        "symbol": "ARLN.F",
+        "name": "Aareal Bank AG"
+    },
+    {
+        "symbol": "ARLN.DE",
+        "name": "Aareal Bank AG"
+    },
+    {
+        "symbol": "ARL.DE",
+        "name": "Aareal Bank AG"
+    },
+    {
+        "symbol": "ARHUF",
+        "name": "AAK AB (publ.)"
+    },
+    {
+        "symbol": "FOMOUSD",
+        "name": "Aavegotchi FOMO"
+    },
+    {
+        "symbol": "FUDUSD",
+        "name": "Aavegotchi FUD USD"
+    },
+    {
+        "symbol": "TRFM",
+        "name": "AAM Transformers ETF"
+    },
+    {
+        "symbol": "6579.TW",
+        "name": "AAEON Technology Inc."
+    },
+    {
+        "symbol": "ROCAF",
+        "name": "Aardvark Ventures Inc."
+    },
+    {
+        "symbol": "AHCS.QA",
+        "name": "Aamal Company Q.P.S.C."
+    },
+    {
+        "symbol": "ACCMF",
+        "name": "AAC Clyde Space AB (publ)"
+    },
+    {
+        "symbol": "2686.HK",
+        "name": "AAG Energy Holdings Limited"
+    },
+    {
+        "symbol": "2018.HK",
+        "name": "AAC Technologies Holdings Inc."
+    },
+    {
+        "symbol": "0GFN.L",
+        "name": "AAC CLYDE SPACE AB AAC CLYDE SP"
+    },
+    {
+        "symbol": "SPDV",
+        "name": "AAM S&P 500 High Dividend Value ETF"
+    },
+    {
+        "symbol": "AH-R.BK",
+        "name": "AAPICO Hitech Public Company Limited"
+    },
+    {
+        "symbol": "AH.BK",
+        "name": "AAPICO Hitech Public Company Limited"
+    },
+    {
+        "symbol": "AREYDRG.BO",
+        "name": "Aarey Drugs & Pharmaceuticals Limited"
+    },
+    {
+        "symbol": "603580.SS",
+        "name": "AA Industrial Belting (Shanghai) Co.,Ltd"
+    },
+    {
+        "symbol": "EEMD",
+        "name": "AAM S&P Emerging Markets High Dividend Value ETF"
+    },
+    {
+        "symbol": "SMIG",
+        "name": "AAM Bahl & Gaynor Small/Mid Cap Income Growth ETF"
+    },
+    {
+        "symbol": "DMDV",
+        "name": "AAM S&P Developed Markets High Dividend Value ETF"
+    },
+    {
+        "symbol": "PFLD",
+        "name": "AAM Low Duration Preferred and Income Securities ETF"
+    },
+    {
+        "symbol": "UAA",
+        "name": "Under Armour, Inc."
+    },
+    {
+        "symbol": "SAA",
+        "name": "ProShares Ultra SmallCap600"
+    },
+    {
+        "symbol": "PAA",
+        "name": "Plains All American Pipeline, L.P."
+    },
+    {
+        "symbol": "MAA",
+        "name": "Mid-America Apartment Communities, Inc."
+    },
+    {
+        "symbol": "IAA",
+        "name": "IAA, Inc."
+    },
+    {
+        "symbol": "GAA",
+        "name": "Cambria Global Asset Allocation ETF"
+    },
+    {
+        "symbol": "CAA",
+        "name": "1152"
+    },
+    {
+        "symbol": "ZAAG",
+        "name": "ZA Group Inc."
+    },
+    {
+        "symbol": "TAAG",
+        "name": "Trend Aggregation Growth ETF"
+    },
+    {
+        "symbol": "RAAX",
+        "name": "VanEck Inflation Allocation ETF"
+    },
+    {
+        "symbol": "RAAS",
+        "name": "Cloopen Group Holding Limited"
+    },
+    {
+        "symbol": "RAAC",
+        "name": "Revolution Acceleration Acquisition Corp"
+    },
+    {
+        "symbol": "PAAS",
+        "name": "Pan American Silver Corp."
+    },
+    {
+        "symbol": "NAAS",
+        "name": "NaaS Technology Inc."
+    },
+    {
+        "symbol": "NAAC",
+        "name": "North Atlantic Acquisition Corporation"
+    },
+    {
+        "symbol": "MAAX",
+        "name": "VanEck Muni Allocation ETF"
+    },
+    {
+        "symbol": "MAAQ",
+        "name": "Mana Capital Acquisition Corp."
+    },
+    {
+        "symbol": "MAAL",
+        "name": "The Marketing Alliance, Inc."
+    },
+    {
+        "symbol": "MAAC",
+        "name": "Montes Archimedes Acquisition Corp."
+    },
+    {
+        "symbol": "LAAC",
+        "name": "Lithium Americas (Argentina) Corp."
+    },
+    {
+        "symbol": "LAAB",
+        "name": "Startech Labs, Inc."
+    },
+    {
+        "symbol": "LAAA",
+        "name": "Lakeshore Acquisition I Corp."
+    },
+    {
+        "symbol": "JAAA",
+        "name": "Janus Henderson AAA CLO ETF"
+    },
+    {
+        "symbol": "HAAC",
+        "name": "Health Assurance Acquisition Corp."
+    },
+    {
+        "symbol": "FAAS",
+        "name": "DigiAsia Corp."
+    },
+    {
+        "symbol": "FAAR",
+        "name": "First Trust Alternative Absolute Return Strategy ETF"
+    },
+    {
+        "symbol": "DAAT",
+        "name": "DAC Technologies Group International, Inc."
+    },
+    {
+        "symbol": "CAAS",
+        "name": "China Automotive Systems, Inc."
+    },
+    {
+        "symbol": "CAAP",
+        "name": "Corporaci\u00c3\u00b3n Am\u00c3\u00a9rica Airports S.A."
+    },
+    {
+        "symbol": "XAARF",
+        "name": "Xaar plc"
+    },
+    {
+        "symbol": "WAAEX",
+        "name": "Wasatch Small Cap Growth Fund Investor Class"
+    },
+    {
+        "symbol": "TAALF",
+        "name": "Taal Distributed Information Technologies Inc."
+    },
+    {
+        "symbol": "TAAIX",
+        "name": "Thrivent Aggressive Allocation Fund Class S"
+    },
+    {
+        "symbol": "TAAGX",
+        "name": "Timothy Plan Aggressive Growth Fund"
+    },
+    {
+        "symbol": "TAAAX",
+        "name": "Thrivent Aggressive Allocation Fund Class A"
+    },
+    {
+        "symbol": "SAA.L",
+        "name": "M&C Saatchi plc"
+    },
+    {
+        "symbol": "SAAGF",
+        "name": "Shanta Gold Limited"
+    },
+    {
+        "symbol": "SAAFY",
+        "name": "Saras S.p.A."
+    },
+    {
+        "symbol": "SAABY",
+        "name": "Saab AB (publ)"
+    },
+    {
+        "symbol": "SAABF",
+        "name": "Saab AB (publ)"
+    },
+    {
+        "symbol": "RAASY",
+        "name": "Cloopen Group Holding Limited"
+    },
+    {
+        "symbol": "RAANX",
+        "name": "Altegris/AACA Opportunistic Real Estate Fund N"
+    },
+    {
+        "symbol": "RAAIX",
+        "name": "Altegris/AACA Opportunistic Real Estate Fund I"
+    },
+    {
+        "symbol": "RAACW",
+        "name": "Revolution Acceleration Acquisition Corp"
+    },
+    {
+        "symbol": "RAACU",
+        "name": "Revolution Acceleration Acquisition Corp"
+    },
+    {
+        "symbol": "RAAAX",
+        "name": "Altegris/AACA Opportunistic Real Estate Fund"
+    },
+    {
+        "symbol": "PAASF",
+        "name": "PAN AMERICAN SILVER CORP"
+    },
+    {
+        "symbol": "PAANF",
+        "name": "Pan American Energy Corp."
+    },
+    {
+        "symbol": "NAACW",
+        "name": "North Atlantic Acquisition Corporation"
+    },
+    {
+        "symbol": "NAACU",
+        "name": "North Atlantic Acquisition Corporation"
+    },
+    {
+        "symbol": "MAAQW",
+        "name": "Mana Capital Acquisition Corp."
+    },
+    {
+        "symbol": "MAAQU",
+        "name": "Mana Capital Acquisition Corp."
+    },
+    {
+        "symbol": "MAAQR",
+        "name": "Mana Capital Acquisition Corp."
+    },
+    {
+        "symbol": "MAANF",
+        "name": "Maanshan Iron & Steel Company Limited"
+    },
+    {
+        "symbol": "MAAGX",
+        "name": "MFS Aggressive Growth Allocation Fund"
+    },
+    {
+        "symbol": "MAAFF",
+        "name": "MagIndustries Corp."
+    },
+    {
+        "symbol": "MAACU",
+        "name": "Montes Archimedes Acquisition Corp."
+    },
+    {
+        "symbol": "LAAAW",
+        "name": "Lakeshore Acquisition I Corp."
+    },
+    {
+        "symbol": "LAAAU",
+        "name": "Lakeshore Acquisition I Corp."
+    },
+    {
+        "symbol": "JAAIX",
+        "name": "John Hancock Fds II, Alternative Asset Allocation Fund Class I"
+    },
+    {
+        "symbol": "JAAAX",
+        "name": "John Hancock Fds II Alternative Asset Allocation Fund Class A"
+    },
+    {
+        "symbol": "IAALF",
+        "name": "IBC Advanced Alloys Corp."
+    },
+    {
+        "symbol": "HAATF",
+        "name": "Haad Thip Public Company Limited"
+    },
+    {
+        "symbol": "HAACW",
+        "name": "Health Assurance Acquisition Corp."
+    },
+    {
+        "symbol": "HAACU",
+        "name": "Health Assurance Acquisition Corp."
+    },
+    {
+        "symbol": "GAAEX",
+        "name": "Guinness Atkinson Alternative Energy Fund"
+    },
+    {
+        "symbol": "FAATX",
+        "name": "American Funds 2010 Target Date Retirement Fd Cl F-1"
+    },
+    {
+        "symbol": "FAASX",
+        "name": "Fidelity Asset Manager 70% Fund"
+    },
+    {
+        "symbol": "FAASW",
+        "name": "DigiAsia Corp."
+    },
+    {
+        "symbol": "FAAIX",
+        "name": "Fidelity Advisor Asset Manager 70% Fund Class I"
+    },
+    {
+        "symbol": "EAATF",
+        "name": "Earthworks Industries Inc."
+    },
+    {
+        "symbol": "EAALX",
+        "name": "Eaton Vance Atlanta Capital Focused Growth Fund Class A"
+    },
+    {
+        "symbol": "EAAAX",
+        "name": "Gabelli Enterprise Mergers and Acquisitions Fund AAA"
+    },
+    {
+        "symbol": "CAAPX",
+        "name": "Ariel Appreciation Fund"
+    },
+    {
+        "symbol": "CAAOF",
+        "name": "INDVR Brands Inc."
+    },
+    {
+        "symbol": "WAA.BO",
+        "name": "Waa Solar Limited"
+    },
+    {
+        "symbol": "WAA.AX",
+        "name": "WAM Active Limited"
+    },
+    {
+        "symbol": "SAAS.L",
+        "name": "Microlise Group plc"
+    },
+    {
+        "symbol": "SAAA.L",
+        "name": "iShares Global AAA-AA Govt Bond UCITS ETF USD (Dist)"
+    },
+    {
+        "symbol": "RAA.SW",
+        "name": "RATIONAL Aktiengesellschaft"
+    },
+    {
+        "symbol": "RAA.DE",
+        "name": "RATIONAL Aktiengesellschaft"
+    },
+    {
+        "symbol": "PAA.AX",
+        "name": "PharmAust Limited"
+    },
+    {
+        "symbol": "MAA-PI",
+        "name": "Mid-America Apartment Communities, Inc."
+    },
+    {
+        "symbol": "IAA.AX",
+        "name": "iShares Asia 50 ETF (AU)"
+    },
+    {
+        "symbol": "IAAA.L",
+        "name": "iShares Global AAA-AA Govt Bond UCITS ETF USD (Dist)"
+    },
+    {
+        "symbol": "HAA1.F",
+        "name": "Hana Microelectronics Public Company Limited"
+    },
+    {
+        "symbol": "GAAA.L",
+        "name": "iShares Global AAA-AA Govt Bond UCITS ETF"
+    },
+    {
+        "symbol": "FAAN.L",
+        "name": "LS FAANG+ ETP"
+    },
+    {
+        "symbol": "FAA.DE",
+        "name": "Fabasoft AG"
+    },
+    {
+        "symbol": "EAAS.L",
+        "name": "eEnergy Group Plc"
+    },
+    {
+        "symbol": "CAA.JO",
+        "name": "CA Sales Holdings Limited"
+    },
+    {
+        "symbol": "CAA.AX",
+        "name": "Capral Limited"
+    },
+    {
+        "symbol": "2AAP.L",
+        "name": "Leverage Shares 2x Apple ETC A"
+    },
+    {
+        "symbol": "1AAP.L",
+        "name": "LS 1x Apple Tracker ETC"
+    },
+    {
+        "symbol": "0AAW.L",
+        "name": "Brockhaus Technologies AG"
+    },
+    {
+        "symbol": "0AAJ.L",
+        "name": "PolyPeptide Group AG"
+    },
+    {
+        "symbol": "0AAI.L",
+        "name": "Montana Aerospace AG"
+    },
+    {
+        "symbol": "TAASUSD",
+        "name": "TaaS USD"
+    },
+    {
+        "symbol": "NAALUSD",
+        "name": "Ethernaal"
+    },
+    {
+        "symbol": "YAAC.TA",
+        "name": "Ya'acobi Brothers Group (YSB) Ltd"
+    },
+    {
+        "symbol": "XAAG.DE",
+        "name": "Invesco Bloomberg Commodity ex-Agriculture UCITS ETF"
+    },
+    {
+        "symbol": "TAAT.CN",
+        "name": "TAAT Global Alternatives Inc."
+    },
+    {
+        "symbol": "TAAL.CN",
+        "name": "Taal Distributed Information Technologies Inc."
+    },
+    {
+        "symbol": "SAAM.BK",
+        "name": "SAAM Development Public Company Limited"
+    },
+    {
+        "symbol": "PAAS.TO",
+        "name": "Pan American Silver Corp."
+    },
+    {
+        "symbol": "PAAS.BA",
+        "name": "Pan American Silver Corp."
+    },
+    {
+        "symbol": "MAAT.PA",
+        "name": "MaaT Pharma SA"
+    },
+    {
+        "symbol": "LAAC.TO",
+        "name": "Lithium Americas (Argentina) Corp."
+    },
+    {
+        "symbol": "YAARI.NS",
+        "name": "Yaari Digital Integrated Services Limited"
+    },
+    {
+        "symbol": "YAARI.BO",
+        "name": "Yaari Digital Integrated Services Limited"
+    },
+    {
+        "symbol": "TAALA.HE",
+        "name": "Taaleri Oyj"
+    },
+    {
+        "symbol": "SAA1V.HE",
+        "name": "Sanoma Oyj"
+    },
+    {
+        "symbol": "PAASI.PA",
+        "name": "Amundi ETF PEA MSCI Emerging Asia UCITS ETF"
+    },
+    {
+        "symbol": "YAARII.NS",
+        "name": "Yaari Digital Integrated Services Limited"
+    },
+    {
+        "symbol": "WAAREE.BO",
+        "name": "WAAREE TECHNOLOGIES LIMITED"
+    },
+    {
+        "symbol": "VAARAD.BO",
+        "name": "Vaarad Ventures Limited"
+    },
+    {
+        "symbol": "SAAB-B.ST",
+        "name": "Saab AB (publ)"
+    },
+    {
+        "symbol": "PAAL-B.CO",
+        "name": "Per Aarsleff Holding A/S"
+    },
+    {
+        "symbol": "DAAWAT.NS",
+        "name": "LT Foods Limited"
+    },
+    {
+        "symbol": "YAANENT.BO",
+        "name": "YAAN ENTERPRISES LIMITED"
+    },
+    {
+        "symbol": "TAALENT.BO",
+        "name": "TAAL Enterprises Limited"
+    },
+    {
+        "symbol": "MAANALU.NS",
+        "name": "Maan Aluminium Limited"
+    },
+    {
+        "symbol": "MAANALU.BO",
+        "name": "Maan Aluminium Limited"
+    },
+    {
+        "symbol": "TAAZAINT.BO",
+        "name": "Taaza International Limited"
+    },
+    {
+        "symbol": "RAAJMEDI.BO",
+        "name": "Raaj Medisafe India Limited"
+    },
+    {
+        "symbol": "MAAGHADV.BO",
+        "name": "MAAGH ADVERTISING AND MARKETIN"
+    },
+    {
+        "symbol": "WAAREERTL.BO",
+        "name": "WAAREE RENEWABLE TECHNOLOGIES"
+    },
+    {
+        "symbol": "KAARYAFSL.BO",
+        "name": "Kaarya Facilities and Services"
+    },
+    {
+        "symbol": "XAR.L",
+        "name": "Xaar plc"
+    },
+    {
+        "symbol": "BXXUSD",
+        "name": "Baanx USD"
+    },
+    {
+        "symbol": "RDAR",
+        "name": "Raadr, Inc."
+    },
+    {
+        "symbol": "0GWL.L",
+        "name": "Saab AB (publ)"
+    },
+    {
+        "symbol": "KAL.JO",
+        "name": "Kaap Agri Limited"
+    },
+    {
+        "symbol": "KANP",
+        "name": "Kaanapali Land, LLC"
+    },
+    {
+        "symbol": "EGY.L",
+        "name": "VAALCO Energy, Inc."
+    },
+    {
+        "symbol": "EGY",
+        "name": "VAALCO Energy, Inc."
+    },
+    {
+        "symbol": "002030.SZ",
+        "name": "Daan Gene Co., Ltd."
+    },
+    {
+        "symbol": "2112.HK",
+        "name": "CAA Resources Limited"
+    },
+    {
+        "symbol": "4051.SR",
+        "name": "Baazeem Trading Company"
+    },
+    {
+        "symbol": "MGH.AX",
+        "name": "MAAS Group Holdings Limited"
+    },
+    {
+        "symbol": "TOBAF",
+        "name": "TAAT Global Alternatives Inc."
+    },
+    {
+        "symbol": "BWB.DE",
+        "name": "Baader Bank Aktiengesellschaft"
+    },
+    {
+        "symbol": "HTC.BK",
+        "name": "Haad Thip Public Company Limited"
+    },
+    {
+        "symbol": "600808.SS",
+        "name": "Maanshan Iron & Steel Company Limited"
+    },
+    {
+        "symbol": "0323.HK",
+        "name": "Maanshan Iron & Steel Company Limited"
+    },
+    {
+        "symbol": "BROCK.BK",
+        "name": "Baan Rock Garden Public Company Limited"
+    },
+    {
+        "symbol": "UTAA",
+        "name": "UTA Acquisition Corporation"
+    },
+    {
+        "symbol": "URAA",
+        "name": "Direxion Shares ETF Trust"
+    },
+    {
+        "symbol": "TRAA",
+        "name": "Traack Technologies Inc."
+    },
+    {
+        "symbol": "TGAA",
+        "name": "Target Global Acquisition I Corp."
+    },
+    {
+        "symbol": "STAA",
+        "name": "STAAR Surgical Company"
+    },
+    {
+        "symbol": "SSAA",
+        "name": "Science Strategic Acquisition Corp. Alpha"
+    },
+    {
+        "symbol": "SMAA",
+        "name": "SMA Alliance, Inc."
+    },
+    {
+        "symbol": "PRAA",
+        "name": "PRA Group, Inc."
+    },
+    {
+        "symbol": "OHAA",
+        "name": "OPY Acquisition Corp. I"
+    },
+    {
+        "symbol": "OGAA",
+        "name": "Organic Agricultural Company Limited"
+    },
+    {
+        "symbol": "MPAA",
+        "name": "Motorcar Parts of America, Inc."
+    },
+    {
+        "symbol": "MCAA",
+        "name": "Mountain & Co. I Acquisition Corp."
+    },
+    {
+        "symbol": "LHAA",
+        "name": "Lerer Hippeau Acquisition Corp."
+    },
+    {
+        "symbol": "LCAA",
+        "name": "L Catterton Asia Acquisition Corp"
+    },
+    {
+        "symbol": "JHAA",
+        "name": "Nuveen Corporate Income 2023 Target Term Fund"
+    },
+    {
+        "symbol": "ISAA",
+        "name": "Iron Spark I Inc."
+    },
+    {
+        "symbol": "IRAA",
+        "name": "Iris Acquisition Corp"
+    },
+    {
+        "symbol": "HRAA",
+        "name": "Health Revenue Assurance Holdings, Inc."
+    },
+    {
+        "symbol": "GGAA",
+        "name": "Genesis Growth Tech Acquisition Corp."
+    },
+    {
+        "symbol": "FWAA",
+        "name": "Fifth Wall Acquisition Corp. I"
+    },
+    {
+        "symbol": "FTAA",
+        "name": "FTAC Athena Acquisition Corp."
+    },
+    {
+        "symbol": "EFAA",
+        "name": "Invesco MSCI EAFE Income Advantage ETF"
+    },
+    {
+        "symbol": "DNAA",
+        "name": "Social Capital Suvretta Holdings Corp. I"
+    },
+    {
+        "symbol": "CPAA",
+        "name": "Conyers Park III Acquisition Corp."
+    },
+    {
+        "symbol": "CLAA",
+        "name": "Colonnade Acquisition Corp. II"
+    },
+    {
+        "symbol": "CHAA",
+        "name": "Catcha Investment Corp"
+    },
+    {
+        "symbol": "AZAA",
+        "name": "AllianzIM U.S. Large Cap Buffer10 Apr ETF"
+    },
+    {
+        "symbol": "VLAAX",
+        "name": "Value Line Asset Allocation Fund Investor Class"
+    },
+    {
+        "symbol": "VIAAY",
+        "name": "Flughafen Wien Aktiengesellschaft"
+    },
+    {
+        "symbol": "VIAAX",
+        "name": "Vanguard International Dividend Appreciation Index Fund Admiral Shares"
+    },
+    {
+        "symbol": "UTAAW",
+        "name": "UTA Acquisition Corporation"
+    },
+    {
+        "symbol": "UTAAU",
+        "name": "UTA Acquisition Corporation"
+    },
+    {
+        "symbol": "USAAX",
+        "name": "USAA Mutual Funds Trust - USAA Growth Fund"
+    },
+    {
+        "symbol": "UBAAF",
+        "name": "Urbana Corporation"
+    },
+    {
+        "symbol": "TQAAX",
+        "name": "T. Rowe Price QM U.S. Small-Cap Growth Equity Fund Advisor Class"
+    },
+    {
+        "symbol": "TGAAW",
+        "name": "Target Global Acquisition I Corp."
+    },
+    {
+        "symbol": "TGAAU",
+        "name": "Target Global Acquisition I Corp."
+    },
+    {
+        "symbol": "SYAAF",
+        "name": "Syrah Resources Limited"
+    },
+    {
+        "symbol": "SSAAY",
+        "name": "SSAB AB (publ)"
+    },
+    {
+        "symbol": "SSAAW",
+        "name": "Science Strategic Acquisition Corp. Alpha"
+    },
+    {
+        "symbol": "SSAAU",
+        "name": "Science Strategic Acquisition Corp. Alpha"
+    },
+    {
+        "symbol": "SSAAF",
+        "name": "SSAB AB (publ)"
+    },
+    {
+        "symbol": "SLAAF",
+        "name": "Sitios Latinoam\u00c3\u00a9rica, S.A.B. de C.V."
+    },
+    {
+        "symbol": "SFAAX",
+        "name": "Allspring Index Asset Allocation Fund Class A"
+    },
+    {
+        "symbol": "RYAAY",
+        "name": "Ryanair Holdings plc"
+    },
+    {
+        "symbol": "RGAAX",
+        "name": "The Growth Fund of America Class R-1 Shares"
+    },
+    {
+        "symbol": "QCAAF",
+        "name": "Quinsam Capital Corporation"
+    },
+    {
+        "symbol": "PPAAY",
+        "name": "PT Perusahaan Gas Negara Tbk"
+    },
+    {
+        "symbol": "PPAAF",
+        "name": "PT Perusahaan Gas Negara Tbk"
+    },
+    {
+        "symbol": "OSAAW",
+        "name": "ProSomnus, Inc."
+    },
+    {
+        "symbol": "ORAAF",
+        "name": "Aura Minerals Inc."
+    },
+    {
+        "symbol": "OHAAW",
+        "name": "OPY Acquisition Corp. I"
+    },
+    {
+        "symbol": "OHAAU",
+        "name": "OPY Acquisition Corp. I"
+    },
+    {
+        "symbol": "NVAAF",
+        "name": "Nova Minerals Limited"
+    },
+    {
+        "symbol": "MRAAY",
+        "name": "Murata Manufacturing Co., Ltd."
+    },
+    {
+        "symbol": "MRAAF",
+        "name": "Murata Manufacturing Co., Ltd."
+    },
+    {
+        "symbol": "MLAAX",
+        "name": "MainStay Large Cap Growth Fund Class A"
+    },
+    {
+        "symbol": "MGAAF",
+        "name": "Morinaga&Co., Ltd."
+    },
+    {
+        "symbol": "MCAAW",
+        "name": "Mountain & Co. I Acquisition Corp."
+    },
+    {
+        "symbol": "MCAAU",
+        "name": "Mountain & Co. I Acquisition Corp."
+    },
+    {
+        "symbol": "LPAAU",
+        "name": "Launch One Acquisition Corp. Unit"
+    },
+    {
+        "symbol": "LCAAW",
+        "name": "L Catterton Asia Acquisition Corp."
+    },
+    {
+        "symbol": "LCAAU",
+        "name": "L Catterton Asia Acquisition Corp"
+    },
+    {
+        "symbol": "KMAAF",
+        "name": "Komax Holding AG"
+    },
+    {
+        "symbol": "JVAAX",
+        "name": "JPMorgan Value Advantage Fund"
+    },
+    {
+        "symbol": "JRAAX",
+        "name": "Janus Henderson Research Fund Class A"
+    },
+    {
+        "symbol": "JCAAX",
+        "name": "Janus Henderson Global Allocation Fund - Conservative"
+    },
+    {
+        "symbol": "IRAAW",
+        "name": "Iris Acquisition Corp"
+    },
+    {
+        "symbol": "IRAAU",
+        "name": "Iris Acquisition Corp"
+    },
+    {
+        "symbol": "HWAAX",
+        "name": "Hotchkis & Wiley Value Opportunities Fund Class A"
+    },
+    {
+        "symbol": "HRAAX",
+        "name": "Hartford Growth Allocation Fund"
+    },
+    {
+        "symbol": "HFAAX",
+        "name": "Janus Henderson Developed World Bond Fund"
+    },
+    {
+        "symbol": "GGAAW",
+        "name": "Genesis Growth Tech Acquisition Corp."
+    },
+    {
+        "symbol": "GGAAU",
+        "name": "Genesis Growth Tech Acquisition Corp."
+    },
+    {
+        "symbol": "GGAAF",
+        "name": "Genesis Growth Tech Acquisition Corp."
+    },
+    {
+        "symbol": "GCAAF",
+        "name": "Guardian Capital Group Limited"
+    },
+    {
+        "symbol": "FZAAX",
+        "name": "Fidelity Advisor Balanced Fund Class Z"
+    },
+    {
+        "symbol": "FTAAW",
+        "name": "FTAC Athena Acquisition Corp."
+    },
+    {
+        "symbol": "FTAAU",
+        "name": "FTAC Athena Acquisition Corp."
+    },
+    {
+        "symbol": "DIAAF",
+        "name": "Diamant Art Corp."
+    },
+    {
+        "symbol": "CRAAX",
+        "name": "Columbia Adaptive Risk Allocation Fund A"
+    },
+    {
+        "symbol": "CPAAW",
+        "name": "Conyers Park III Acquisition Corp."
+    },
+    {
+        "symbol": "CPAAU",
+        "name": "Conyers Park III Acquisition Corp."
+    },
+    {
+        "symbol": "CMAAX",
+        "name": "Calvert Moderate Allocation Fund"
+    },
+    {
+        "symbol": "CHAAW",
+        "name": "Catcha Investment Corp"
+    },
+    {
+        "symbol": "CGAAY",
+        "name": "A2B Australia Limited"
+    },
+    {
+        "symbol": "CFAAX",
+        "name": "American Funds Bond Fund of Amer 529A"
+    },
+    {
+        "symbol": "BIAAX",
+        "name": "BlackRock Impact Bond Fund - Class A"
+    },
+    {
+        "symbol": "AYAAY",
+        "name": "Ayala Land, Inc."
+    },
+    {
+        "symbol": "AYAAF",
+        "name": "Ayala Land, Inc."
+    },
+    {
+        "symbol": "ATAAY",
+        "name": "Atacad\u00c3\u00a3o S.A."
+    },
+    {
+        "symbol": "ASAAF",
+        "name": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft"
+    },
+    {
+        "symbol": "ARAAX",
+        "name": "Horizon Active Risk Assist Fund - Advisor Class"
+    },
+    {
+        "symbol": "ARAAF",
+        "name": "Aclara Resources Inc."
+    },
+    {
+        "symbol": "APAAF",
+        "name": "Appia Rare Earths & Uranium Corp."
+    },
+    {
+        "symbol": "AKAAF",
+        "name": "Aker ASA"
+    },
+    {
+        "symbol": "VUAA.L",
+        "name": "Vanguard S&P 500 UCITS ETF"
+    },
+    {
+        "symbol": "V3AA.L",
+        "name": "Vanguard Funds Public Limited Company - Vanguard ESG Global All Cap UCITS ETF"
+    },
+    {
+        "symbol": "SEAA.F",
+        "name": "UBS (Lux) Fund Solutions \u00e2\u20ac\u201c J.P. Morgan USD EM Diversified Bond 1-5 UCITS ETF"
+    },
+    {
+        "symbol": "LSAA.L",
+        "name": "Life Settlement Assets PLC"
+    },
+    {
+        "symbol": "IUAA.L",
+        "name": "iShares US Aggregate Bond UCITS ETF"
+    },
+    {
+        "symbol": "INAA.L",
+        "name": "iShares MSCI North America UCITS ETF"
+    },
+    {
+        "symbol": "IGAA.L",
+        "name": "iShares Emerging Asia Local Govt Bond UCITS ETF USD (Dist)"
+    },
+    {
+        "symbol": "IEAA.L",
+        "name": "iShares Core \u00e2\u201a\u00ac Corp Bond UCITS ETF"
+    },
+    {
+        "symbol": "GMAA.L",
+        "name": "Gama Aviation Plc"
+    },
+    {
+        "symbol": "CNAA.L",
+        "name": "Lyxor MSCI China A (DR) UCITS ETF"
+    },
+    {
+        "symbol": "0YAA.L",
+        "name": "Nova Ltd."
+    },
+    {
+        "symbol": "VUAA.MI",
+        "name": "Vanguard S&P 500 UCITS ETF"
+    },
+    {
+        "symbol": "VUAA.DE",
+        "name": "Vanguard S&P 500 UCITS ETF"
+    },
+    {
+        "symbol": "STAA.JK",
+        "name": "PT Sumber Tani Agung Resources Tbk"
+    },
+    {
+        "symbol": "SEAA.DE",
+        "name": "UBS (Lux) Fund Solutions \u00e2\u20ac\u201c J.P. Morgan USD EM Diversified Bond 1-5 UCITS ETF"
+    },
+    {
+        "symbol": "S4AA.DE",
+        "name": "SMT Scharf AG"
+    },
+    {
+        "symbol": "PJAA.JK",
+        "name": "PT Pembangunan Jaya Ancol Tbk"
+    },
+    {
+        "symbol": "MLAA.PA",
+        "name": "L Agence Automobiliere"
+    },
+    {
+        "symbol": "INAA.SW",
+        "name": "iShares MSCI North America UCITS ETF"
+    },
+    {
+        "symbol": "HRAA.TO",
+        "name": "Horizons ReSolve Adaptive Asset Allocation ETF"
+    },
+    {
+        "symbol": "GIAA.JK",
+        "name": "PT. Garuda Indonesia (Persero) Tbk"
+    },
+    {
+        "symbol": "ERAA.JK",
+        "name": "PT Erajaya Swasembada Tbk"
+    },
+    {
+        "symbol": "EEAA.DE",
+        "name": "BNP Paribas Easy FTSE EPRA/NAREIT Eurozone Capped"
+    },
+    {
+        "symbol": "CNAA.DE",
+        "name": "Lyxor MSCI China A (DR) UCITS ETF"
+    },
+    {
+        "symbol": "CLAA-WT",
+        "name": "Colonnade Acquisition Corp. II"
+    },
+    {
+        "symbol": "CLAA-UN",
+        "name": "Colonnade Acquisition Corp. II"
+    },
+    {
+        "symbol": "CHAA-WT",
+        "name": "Catcha Investment Corp. Redeema"
+    },
+    {
+        "symbol": "CHAA-UN",
+        "name": "Catcha Investment Corp"
+    },
+    {
+        "symbol": "CGAA.TO",
+        "name": "CI Global Asset Allocation Private Pool ETF"
+    },
+    {
+        "symbol": "3SAA.MI",
+        "name": "GraniteShares 3x Short Alibaba Daily ETP"
+    },
+    {
+        "symbol": "3LAA.MI",
+        "name": "GraniteShares 3x Long Alibaba Daily ETP"
+    },
+    {
+        "symbol": "UJAAS.NS",
+        "name": "Ujaas Energy Limited"
+    },
+    {
+        "symbol": "MLAAT.PA",
+        "name": "Azorean Aquatic Technologies, S.A."
+    },
+    {
+        "symbol": "MLAAH.PA",
+        "name": "Amatheon Agri Holding N.V."
+    },
+    {
+        "symbol": "MLAAE.PA",
+        "name": "Caire"
+    },
+    {
+        "symbol": "EMAAR.AE",
+        "name": "Emaar Properties PJSC"
+    },
+    {
+        "symbol": "TIAANC.BO",
+        "name": "TIAAN CONSUMER LIMITED"
+    },
+    {
+        "symbol": "HMAAGRO.NS",
+        "name": "HMA Agro Industries Limited"
+    },
+    {
+        "symbol": "HMAAGRO.BO",
+        "name": "HMA Agro Industries Limited"
+    },
+    {
+        "symbol": "EMAARDEV.AE",
+        "name": "Emaar Development PJSC"
+    },
+    {
+        "symbol": "VIAANINDUS.BO",
+        "name": "Viaan Industries Limited"
+    },
+    {
+        "symbol": "UIGRX",
+        "name": "USAA Growth Fund"
+    },
+    {
+        "symbol": "PHRMASI.BO",
+        "name": "Phaarmasia Limited"
+    },
+    {
+        "symbol": "USPRX",
+        "name": "USAA 500 Index Fund"
+    },
+    {
+        "symbol": "UEL.NS",
+        "name": "Ujaas Energy Limited"
+    },
+    {
+        "symbol": "ESARIND.BO",
+        "name": "Esaar (India) Limited"
+    },
+    {
+        "symbol": "6696.T",
+        "name": "TRaaS On Product Inc."
+    },
+    {
+        "symbol": "4220.SR",
+        "name": "Emaar The Economic City"
+    },
+    {
+        "symbol": "4292.SR",
+        "name": "Ataa Educational Company"
+    },
+    {
+        "symbol": "USNQX",
+        "name": "USAA NASDAQ-100 Index Fund"
+    },
+    {
+        "symbol": "600909.SS",
+        "name": "Huaan Securities Co., Ltd."
+    },
+    {
+        "symbol": "USWGX",
+        "name": "USAA Sustainable World Fund"
+    },
+    {
+        "symbol": "TIEIX",
+        "name": "TIAA-CREF Equity Index Fund"
+    },
+    {
+        "symbol": "CGH.L",
+        "name": "Chaarat Gold Holdings Limited"
+    },
+    {
+        "symbol": "USSCX",
+        "name": "USAA Science & Technology Fund"
+    },
+    {
+        "symbol": "TRLHX",
+        "name": "TIAA-CREF Large Cap Value Fund"
+    },
+    {
+        "symbol": "TRLCX",
+        "name": "TIAA-CREF Large Cap Value Fund"
+    },
+    {
+        "symbol": "TRGIX",
+        "name": "TIAA-CREF Growth & Income Fund"
+    },
+    {
+        "symbol": "TIIRX",
+        "name": "TIAA-CREF Growth & Income Fund"
+    },
+    {
+        "symbol": "TGIHX",
+        "name": "TIAA-CREF Growth & Income Fund"
+    },
+    {
+        "symbol": "TCLCX",
+        "name": "TIAA-CREF Large Cap Value Fund"
+    },
+    {
+        "symbol": "TSBBX",
+        "name": "TIAA-CREF Core Impact Bond Fund"
+    },
+    {
+        "symbol": "TIRTX",
+        "name": "TIAA-CREF Large Cap Growth Fund"
+    },
+    {
+        "symbol": "TILHX",
+        "name": "TIAA-CREF Large Cap Growth Fund"
+    },
+    {
+        "symbol": "601015.SS",
+        "name": "Shaanxi Heimao Coking Co., Ltd."
+    },
+    {
+        "symbol": "USBLX",
+        "name": "USAA Growth and Tax Strategy Fund"
+    },
+    {
+        "symbol": "002109.SZ",
+        "name": "Shaanxi Xinghua Chemistry Co.,Ltd"
+    },
+    {
+        "symbol": "USAWX",
+        "name": "USAA Sustainable World Fund Shares"
+    },
+    {
+        "symbol": "TRSCX",
+        "name": "TIAA-CREF Social Choice Equity Fund"
+    },
+    {
+        "symbol": "TRPSX",
+        "name": "TIAA-CREF Social Choice Equity Fund"
+    },
+    {
+        "symbol": "TVIIX",
+        "name": "TIAA-CREF Lifecycle Index 2060 Instl"
+    },
+    {
+        "symbol": "000563.SZ",
+        "name": "Shaanxi International Trust Co.,Ltd."
+    },
+    {
+        "symbol": "601225.SS",
+        "name": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+        "symbol": "000561.SZ",
+        "name": "Shaanxi Fenghuo Electronics Co., Ltd."
+    },
+    {
+        "symbol": "600984.SS",
+        "name": "Shaanxi Construction Machinery Co.,Ltd"
+    },
+    {
+        "symbol": "002267.SZ",
+        "name": "Shaanxi Provincial Natural Gas Co.,Ltd"
+    },
+    {
+        "symbol": "603139.SS",
+        "name": "Shaanxi Kanghui Pharmaceutical Co., Ltd."
+    },
+    {
+        "symbol": "600343.SS",
+        "name": "Shaanxi Aerospace Power Hi-Tech Co., Ltd."
+    },
+    {
+        "symbol": "4061.SR",
+        "name": "Anaam International Holding Group Company"
+    },
+    {
+        "symbol": "USCRX",
+        "name": "USAA Cornerstone Moderately Aggressive Fund"
+    },
+    {
+        "symbol": "003009.SZ",
+        "name": "Shaanxi Zhongtian Rocket Technology Co., Ltd"
+    },
+    {
+        "symbol": "USSPX",
+        "name": "USAA Mutual Funds Trust - USAA 500 Index Fund"
+    },
+    {
+        "symbol": "TSBPX",
+        "name": "TIAA-CREF Core Impact Bond Fund Premier Class"
+    },
+    {
+        "symbol": "TILPX",
+        "name": "TIAA-CREF Large-Cap Growth Fund Premier Class"
+    },
+    {
+        "symbol": "TCLNX",
+        "name": "TIAA-CREF Lifecycle 2030 Fund Retirement Class"
+    },
+    {
+        "symbol": "605033.SS",
+        "name": "Shaanxi Meibang Pharmaceutical Group Co., Ltd."
+    },
+    {
+        "symbol": "TILRX",
+        "name": "TIAA-CREF Large-Cap Growth Fund Retirement Class"
+    },
+    {
+        "symbol": "601568.SS",
+        "name": "Shaanxi Beiyuan Chemical Industry Group Co., Ltd."
+    },
+    {
+        "symbol": "600379.SS",
+        "name": "Shaanxi Baoguang Vacuum Electric Device Co., Ltd."
+    },
+    {
+        "symbol": "TRLIX",
+        "name": "TIAA-CREF Large-Cap Value Fund Institutional Class"
+    },
+    {
+        "symbol": "TCREX",
+        "name": "TIAA-CREF Real Estate Securities Fund Retail Class"
+    },
+    {
+        "symbol": "TSBIX",
+        "name": "TIAA-CREF Core Impact Bond Fund Institutional Class"
+    },
+    {
+        "symbol": "USAGX",
+        "name": "USAA Mutual Fds Tr Precious Metals and Minerals Fund"
+    },
+    {
+        "symbol": "TRIRX",
+        "name": "TIAA-CREF Large Cap Growth Index Fund Retirement Class"
+    },
+    {
+        "symbol": "TLQIX",
+        "name": "TIAA-CREF Lifecycle Index 2025 Fund Institutional Class"
+    },
+    {
+        "symbol": "TLLIX",
+        "name": "TIAA-CREF Lifecycle Index 2050 Fund Institutional Class"
+    },
+    {
+        "symbol": "TLIIX",
+        "name": "TIAA-CREF Quant Large-Cap Growth Fund Institutional Class"
+    },
+    {
+        "symbol": "002864.SZ",
+        "name": "Shaanxi Panlong Pharmaceutical Group Limited By Share Ltd"
+    },
+    {
+        "symbol": "600831.SS",
+        "name": "Shaanxi Broadcast & TV Network Intermediary(Group)Co.,Ltd."
+    },
+    {
+        "symbol": "600248.SS",
+        "name": "Shaanxi Construction Engineering Group Corporation Limited"
+    },
+    {
+        "symbol": "000812.SZ",
+        "name": "Shaanxi Jinye Science Technology and Education Group Co.,Ltd"
+    },
+    {
+        "symbol": "TETAA",
+        "name": "Teton Advisors, LLC"
+    },
+    {
+        "symbol": "SBSAA",
+        "name": "Spanish Broadcasting System, Inc."
+    },
+    {
+        "symbol": "RBPAA",
+        "name": "16197"
+    },
+    {
+        "symbol": "RBCAA",
+        "name": "Republic Bancorp, Inc."
+    },
+    {
+        "symbol": "PARAA",
+        "name": "Paramount Global"
+    },
+    {
+        "symbol": "MCRAA",
+        "name": "McRae Industries, Inc."
+    },
+    {
+        "symbol": "GRTAA",
+        "name": "Griffin Realty Trust Inc."
+    },
+    {
+        "symbol": "VIVAA.BO",
+        "name": "Vivaa Tradecom Limited"
+    },
+    {
+        "symbol": "TANAA.BO",
+        "name": "Taneja Aerospace and Aviation Limited"
+    },
+    {
+        "symbol": "NYKAA.NS",
+        "name": "FSN E-Commerce Ventures Limited"
+    },
+    {
+        "symbol": "NYKAA.BO",
+        "name": "FSN E-Commerce Ventures Limited"
+    },
+    {
+        "symbol": "KOZAA.IS",
+        "name": "Koza Anadolu Metal Madencilik Isletmeleri A.S."
+    },
+    {
+        "symbol": "ALFAA.MX",
+        "name": "Alfa, S. A. B. de C. V."
+    },
+    {
+        "symbol": "SMSAAM.SN",
+        "name": "Sociedad Matriz SAAM S.A."
+    },
+    {
+        "symbol": "RADAAN.NS",
+        "name": "Radaan Mediaworks India Limited"
+    },
+    {
+        "symbol": "RADAAN.BO",
+        "name": "Radaan Mediaworks India Limited"
+    },
+    {
+        "symbol": "DEYAAR.AE",
+        "name": "Deyaar Development PJSC"
+    },
+    {
+        "symbol": "MAHAANF.BO",
+        "name": "Mahaan Foods Limited"
+    },
+    {
+        "symbol": "DHYAANI.BO",
+        "name": "DHYAANI TILE AND MARBLEZ LIMIT"
+    },
+    {
+        "symbol": "NOVAAGRI.NS",
+        "name": "Nova Agritech Limited"
+    },
+    {
+        "symbol": "AMRAAGRI.BO",
+        "name": "Amraworld Agrico Limited"
+    },
+    {
+        "symbol": "TITAANIUM.BO",
+        "name": "Titaanium Ten Enterprise Limited"
+    },
+    {
+        "symbol": "SHRAAITECH.BO",
+        "name": "Shradha AI Technologies Limite"
+    },
+    {
+        "symbol": "CAN",
+        "name": "Canaan Inc."
+    },
+    {
+        "symbol": "CPKOF",
+        "name": "Akwaaba Mining Ltd."
+    },
+    {
+        "symbol": "6112.TW",
+        "name": "Metaage Corporation"
+    },
+    {
+        "symbol": "RSS.V",
+        "name": "RESAAS Services Inc."
+    },
+    {
+        "symbol": "RSASF",
+        "name": "RESAAS Services Inc."
+    },
+    {
+        "symbol": "ALBA.TA",
+        "name": "Albaad Massuot Yitzhak Ltd"
+    },
+    {
+        "symbol": "SHUAW",
+        "name": "SHUAA Partners Acquisition Corp I"
+    },
+    {
+        "symbol": "SHUAU",
+        "name": "SHUAA Partners Acquisition Corp I"
+    },
+    {
+        "symbol": "SHUA",
+        "name": "SHUAA Partners Acquisition Corp I"
+    },
+    {
+        "symbol": "TTLPF.BK",
+        "name": "Talaad Thai Leasehold Property Fund"
+    },
+    {
+        "symbol": "8060.SR",
+        "name": "Walaa Cooperative Insurance Company"
+    },
+    {
+        "symbol": "AVVH",
+        "name": "AVVAA World Health Care Products, Inc."
+    },
+    {
+        "symbol": "BOYAF",
+        "name": "Boyaa Interactive International Limited"
+    },
+    {
+        "symbol": "0434.HK",
+        "name": "Boyaa Interactive International Limited"
+    },
+    {
+        "symbol": "IISL.BO",
+        "name": "Ishaan Infrastructures and Shelters Limited"
+    },
+    {
+        "symbol": "VISTAA.MX",
+        "name": "Vista Energy, S.A.B. de C.V."
+    },
+    {
+        "symbol": "SAVIAA.MX",
+        "name": "Savia SA de CV"
+    },
+    {
+        "symbol": "PFIBAA.CO",
+        "name": "PFA Invest Balance A"
+    },
+    {
+        "symbol": "NYIDAA.CO",
+        "name": "Nykredit Invest Danske Aktier Akk KL"
+    },
+    {
+        "symbol": "NAYSAA.BO",
+        "name": "Naysaa Securities Limited"
+    },
+    {
+        "symbol": "MMIGAA.CO",
+        "name": "MMI Globale Aktier Akk. \u00e2\u20ac\u201c Harding Loevner"
+    },
+    {
+        "symbol": "MAJVAA.CO",
+        "name": "Maj Invest Value Aktier Akk"
+    },
+    {
+        "symbol": "LSIGAA.CO",
+        "name": "L\u00c3\u00a5n & Spar Invest - Globale Aktier Basis Akkumulerende"
+    },
+    {
+        "symbol": "KRSNAA.NS",
+        "name": "Krsnaa Diagnostics Limited"
+    },
+    {
+        "symbol": "KRSNAA.BO",
+        "name": "Krsnaa Diagnostics Limited"
+    },
+    {
+        "symbol": "GISSAA.MX",
+        "name": "Grupo Industrial Saltillo, S.A.B. de C.V."
+    },
+    {
+        "symbol": "FPIGAA.CO",
+        "name": "Formuepleje Globale Aktier - Akkumulerende"
+    },
+    {
+        "symbol": "BOLSAA.MX",
+        "name": "Bolsa Mexicana de Valores, S.A.B. de C.V."
+    },
+    {
+        "symbol": "BIVOAA.CO",
+        "name": "Investeringsforeningen Bil Danmark - Selection Aktier Akk.- KL"
+    },
+    {
+        "symbol": "BAIGAA.CO",
+        "name": "Investeringsforeningen Bankinvest Globale Aktier Akk A Fund"
+    },
+    {
+        "symbol": "BAIBAA.CO",
+        "name": "Investeringsforeningen BankInvest - B\u00c3\u00b8rsnoterede Alternativer Akk. KL"
+    },
+    {
+        "symbol": "SEIDAAP.CO",
+        "name": "SEBinvest - Danske Aktier Akkumulerende AKL"
+    },
+    {
+        "symbol": "PFIBAAK.CO",
+        "name": "PFA Invest Balance A Akkumulere"
+    },
+    {
+        "symbol": "HARIAAPL.BO",
+        "name": "Haria Apparels Limited"
+    },
+    {
+        "symbol": "BAIGAAUA.CO",
+        "name": "Investeringsforeningen Bankinvest Globale Aktier Baeredygtig Udvikling A"
+    },
+    {
+        "symbol": "SURYAAMBA.BO",
+        "name": "Suryaamba Spinning Mills Limited"
+    },
+    {
+        "symbol": "SHIVAAGRO.BO",
+        "name": "Shiva Global Agro Industries Limited"
+    },
+    {
+        "symbol": "MUKTAARTS.NS",
+        "name": "Mukta Arts Limited"
+    },
+    {
+        "symbol": "MUKTAARTS.BO",
+        "name": "Mukta Arts Limited"
+    },
+    {
+        "symbol": "JAMNAAUTO.NS",
+        "name": "Jamna Auto Industries Limited"
+    },
+    {
+        "symbol": "JAMNAAUTO.BO",
+        "name": "Jamna Auto Industries Limited"
+    },
+    {
+        "symbol": "BAIGAAUAA.CO",
+        "name": "Investeringsforeningen Bankinvest Globale Aktier Baeredygtig Udvikling Akk.A"
+    },
+    {
+        "symbol": "SEINAASRII.CO",
+        "name": "SEBinvest AKL Nordamerika Aktie"
+    },
+    {
+        "symbol": "CWIGAAKKKLA.CO",
+        "name": "C WorldWide Globale Aktier - AK"
+    },
+    {
+        "symbol": "CASUSD",
+        "name": "Cashaa USD"
+    },
+    {
+        "symbol": "MAX",
+        "name": "MediaAlpha, Inc."
+    },
+    {
+        "symbol": "SBO.OL",
+        "name": "Selvaag Bolig ASA"
+    },
+    {
+        "symbol": "0Q92.L",
+        "name": "Selvaag Bolig ASA"
+    },
+    {
+        "symbol": "4334.SR",
+        "name": "Al Maather Reit Fund"
+    },
+    {
+        "symbol": "TON.JO",
+        "name": "Tongaat Hulett Limited"
+    },
+    {
+        "symbol": "DIAMONDYD.NS",
+        "name": "Prataap Snacks Limited"
+    },
+    {
+        "symbol": "DIAMONDYD.BO",
+        "name": "Prataap Snacks Limited"
+    },
+    {
+        "symbol": "3086.HK",
+        "name": "ChinaAMC NASDAQ 100 ETF"
+    },
+    {
+        "symbol": "83188.HK",
+        "name": "ChinaAMC CSI 300 Index ETF"
+    },
+    {
+        "symbol": "3143.HK",
+        "name": "ChinaAMC Hong Kong Banks ETF"
+    },
+    {
+        "symbol": "513300.SS",
+        "name": "ChinaAMC NASDAQ 100 ETF(QDII)"
+    },
+    {
+        "symbol": "3145.HK",
+        "name": "ChinaAMC Asia High Dividend ETF"
+    },
+    {
+        "symbol": "3088.HK",
+        "name": "ChinaAMC Hang Seng TECH Index ETF"
+    },
+    {
+        "symbol": "3160.HK",
+        "name": "ChinaAMC MSCI Japan Hedged to USD ETF"
+    },
+    {
+        "symbol": "3121.HK",
+        "name": "ChinaAMC MSCI Asia Pacific Real Estate ETF"
+    },
+    {
+        "symbol": "3141.HK",
+        "name": "ChinaAMC Asia USD Investment Grade Bond ETF"
+    },
+    {
+        "symbol": "3165.HK",
+        "name": "ChinaAMC MSCI Europe Quality Hedged to USD ETF"
+    },
+    {
+        "symbol": "CHMCF",
+        "name": "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
+    },
+    {
+        "symbol": "7261.HK",
+        "name": "ChinaAMC NASDAQ-100 Index Daily (2x) Leveraged Product"
+    },
+    {
+        "symbol": "7522.HK",
+        "name": "ChinaAMC Direxion NASDAQ-100 Daily (-2x) Inverse Product"
+    },
+    {
+        "symbol": "7331.HK",
+        "name": "ChinaAMC Direxion NASDAQ-100 Daily (-1x) Inverse Product"
+    },
+    {
+        "symbol": "7373.HK",
+        "name": "ChinaAMC Direxion CSI 300 Index Daily (-1x) Inverse Product"
+    },
+    {
+        "symbol": "7272.HK",
+        "name": "ChinaAMC Direxion CSI 300 Index Daily (2x) Leveraged Product"
+    },
+    {
+        "symbol": "3157.HK",
+        "name": "ChinaAMC Hang Seng Stock Connect Hong Kong SmallCap Index ETF"
+    },
+    {
+        "symbol": "82813.HK",
+        "name": "ChinaAMC Bloomberg Barclays China Treasury + Policy Bank Bond Index ETF"
+    },
+    {
+        "symbol": "GFAMSAA.MX",
+        "name": "Grupo Famsa, S.A.B. de C.V."
+    },
+    {
+        "symbol": "CODUSAA.MX",
+        "name": "548"
+    },
+    {
+        "symbol": "BAIVGAA.CO",
+        "name": "BankInvest Value Globale Aktier"
+    },
+    {
+        "symbol": "BAIHUAA.CO",
+        "name": "BankInvest - H\u00c3\u00b8jt Udbytte Aktier KL"
+    },
+    {
+        "symbol": "BAIEMAA.CO",
+        "name": "BankInvest Emerging Markets Aktier"
+    },
+    {
+        "symbol": "BAIDKAA.CO",
+        "name": "BankInvest - Danske Aktier KL"
+    },
+    {
+        "symbol": "VEDAVAAG.BO",
+        "name": "Vedavaag Systems Limited"
+    },
+    {
+        "symbol": "SAMBHAAV.NS",
+        "name": "Sambhaav Media Limited"
+    },
+    {
+        "symbol": "SAMBHAAV.BO",
+        "name": "Sambhaav Media Limited"
+    },
+    {
+        "symbol": "BAIDKAAKA.CO",
+        "name": "Bankinvest - Danske Aktier Akk. KL"
+    },
+    {
+        "symbol": "SYIGEAADKK.CO",
+        "name": "Sydinvest Globale EM-Aktier KL"
+    },
+    {
+        "symbol": "SYIBDAADKK.CO",
+        "name": "Investeringsforeningen Sydinvest Baeredygtige Aktier A Dkk"
+    },
+    {
+        "symbol": "SUERYAAKNI.BO",
+        "name": "Sueryaa Knitwear Limited"
+    },
+    {
+        "symbol": "NDISTAAKL1.CO",
+        "name": "Nordea Invest Stabile Aktier Akkumulerende"
+    },
+    {
+        "symbol": "AMBICAAGAR.NS",
+        "name": "Ambica Agarbathies Aroma & Industries Limited"
+    },
+    {
+        "symbol": "AMBICAAGAR.BO",
+        "name": "Ambica Agarbathies Aroma & Industries Limited"
+    },
+    {
+        "symbol": "SPIBDAAKKKLA.CO",
+        "name": "SPARINVEST B\u00c3\u2020REDYGTIGE AKTIER AKK"
+    },
+    {
+        "symbol": "PMICTAAKLNEUR.CO",
+        "name": "PP Capital - Tactical Asset Allocation"
+    },
+    {
+        "symbol": "300635.SZ",
+        "name": "SinoDaan Co., Ltd."
+    },
+    {
+        "symbol": "KWS.SW",
+        "name": "KWS SAAT SE & Co. KGaA"
+    },
+    {
+        "symbol": "KWS.DE",
+        "name": "KWS SAAT SE & Co. KGaA"
+    },
+    {
+        "symbol": "KNKZF",
+        "name": "KWS SAAT SE & Co. KGaA"
+    },
+    {
+        "symbol": "MCHA",
+        "name": "Matchaah Holdings, Inc."
+    },
+    {
+        "symbol": "TTAM.TA",
+        "name": "Tiv Taam Holdings 1 Ltd."
+    },
+    {
+        "symbol": "TLEVISAA.MX",
+        "name": "Grupo Televisa SAB"
+    },
+    {
+        "symbol": "SUVIDHAA.NS",
+        "name": "Suvidhaa Infoserve Limited"
+    },
+    {
+        "symbol": "SUVIDHAA.BO",
+        "name": "Suvidhaa Infoserve Limited"
+    },
+    {
+        "symbol": "SPIBDVAA.CO",
+        "name": "Sparinvest B\u00c3\u00a6redygtige Value Aktier"
+    },
+    {
+        "symbol": "IMAGICAA.NS",
+        "name": "Imagicaaworld Entertainment Limited"
+    },
+    {
+        "symbol": "IMAGICAA.BO",
+        "name": "Imagicaaworld Entertainment Limited"
+    },
+    {
+        "symbol": "CYDSASAA.MX",
+        "name": "Cydsa, S.A.B. de C.V."
+    },
+    {
+        "symbol": "BIVOPRAA.CO",
+        "name": "BankInvest Optima Rente Akk. KL"
+    },
+    {
+        "symbol": "ATLANTAA.BO",
+        "name": "Atlantaa Limited"
+    },
+    {
+        "symbol": "ORTINLAABS.BO",
+        "name": "Ortin Laboratories Limited"
+    },
+    {
+        "symbol": "MMIGLVAAKT.CO",
+        "name": "Multi Manager Invest Globale Value Aktier"
+    },
+    {
+        "symbol": "BAIBDKAAUA.CO",
+        "name": "BankInvest BIX DK Akt Ansvarlig"
+    },
+    {
+        "symbol": "MMIGLVAAKTAKK.CO",
+        "name": "Multi Manager Invest Globale Value Aktier"
+    },
+    {
+        "symbol": "BAIBDKAAUAKKA.CO",
+        "name": "BankInv BIX DK Akt Ansvarl Udvi"
+    },
+    {
+        "symbol": "BRRDF",
+        "name": "Borregaard ASA"
+    },
+    {
+        "symbol": "BRG.OL",
+        "name": "Borregaard ASA"
+    },
+    {
+        "symbol": "BRGAY",
+        "name": "Borregaard ASA"
+    },
+    {
+        "symbol": "TGVSL.BO",
+        "name": "TGV SRAAC Limited"
+    },
+    {
+        "symbol": "4163.SR",
+        "name": "Al-Dawaa Medical Services Company"
+    },
+    {
+        "symbol": "BAILDKOAA.CO",
+        "name": "BankInvest Lange Danske Obligationer Akk. KL"
+    },
+    {
+        "symbol": "BAIGOAUAA.CO",
+        "name": "BankInvest Globale Obligationer Ansvarlig Udvikling Akk. A"
+    },
+    {
+        "symbol": "JAINEX.BO",
+        "name": "Jainex Aamcol Limited"
+    },
+    {
+        "symbol": "FICO",
+        "name": "Fair Isaac Corporation"
+    },
+    {
+        "symbol": "0TIQ.L",
+        "name": "Fair Isaac Corporation"
+    },
+    {
+        "symbol": "MTHH.CO",
+        "name": "MT H\u00c3\u00b8jgaard Holding A/S"
+    },
+    {
+        "symbol": "APLY.NE",
+        "name": "Apple (AAPL) Yield Shares Purpose ETF"
+    },
+    {
+        "symbol": "UGOTCHIUSD",
+        "name": "Unicly Aavegotchi Astronauts Collection"
+    },
+    {
+        "symbol": "GRIEJD.CO",
+        "name": "Gudme Raaschou Europ\u00c3\u00a6iske Ejendomsaktier"
+    },
+    {
+        "symbol": "TLKM.JK",
+        "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk"
+    },
+    {
+        "symbol": "TLKMF",
+        "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk"
+    },
+    {
+        "symbol": "TLK",
+        "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk"
+    },
+    {
+        "symbol": "XINSA.IS",
+        "name": "BIST INSAAT"
+    },
+    {
+        "symbol": "ZILLIONXOUSD",
+        "name": "Zillion Aakar XO"
+    },
+    {
+        "symbol": "BGE.AX",
+        "name": "Bridge SaaS Limited"
+    },
+    {
+        "symbol": "ENKAI.IS",
+        "name": "Enka Insaat ve Sanayi A.S."
+    },
+    {
+        "symbol": "EKIVF",
+        "name": "Enka Insaat ve Sanayi A.S."
+    },
+    {
+        "symbol": "601369.SS",
+        "name": "Xi'an Shaangu Power Co., Ltd."
+    },
+    {
+        "symbol": "ICLO",
+        "name": "Invesco Aaa Clo Floating Rate Note ETF"
+    },
+    {
+        "symbol": "QLTA",
+        "name": "iShares Aaa - A Rated Corporate Bond ETF"
+    },
+    {
+        "symbol": "TEJASSVI.BO",
+        "name": "TEJASSVI AAHARAM LIMITED"
+    },
+    {
+        "symbol": "SHVFL.BO",
+        "name": "Shreevatsaa Finance and Leasing Limited"
+    },
+    {
+        "symbol": "APLY",
+        "name": "YieldMax AAPL Option Income Strategy ETF"
+    },
+    {
+        "symbol": "PGAS.JK",
+        "name": "PT Perusahaan Gas Negara Tbk"
+    },
+    {
+        "symbol": "JHS.NS",
+        "name": "JHS Svendgaard Laboratories Limited"
+    },
+    {
+        "symbol": "JHS.BO",
+        "name": "JHS Svendgaard Laboratories Limited"
+    },
+    {
+        "symbol": "002252.SZ",
+        "name": "Shanghai RAAS Blood Products Co., Ltd."
+    },
+    {
+        "symbol": "PPLFY",
+        "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk"
+    },
+    {
+        "symbol": "PPLFF",
+        "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk"
+    },
+    {
+        "symbol": "LSIP.JK",
+        "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk"
+    },
+    {
+        "symbol": "4191.SR",
+        "name": "Abdullah Saad Mohammed Abo Moati for Bookstores Company"
+    },
+    {
+        "symbol": "TYRES.HE",
+        "name": "Nokian Renkaat Oyj"
+    },
+    {
+        "symbol": "NKRKY",
+        "name": "Nokian Renkaat Oyj"
+    },
+    {
+        "symbol": "NKRKF",
+        "name": "Nokian Renkaat Oyj"
+    },
+    {
+        "symbol": "603822.SS",
+        "name": "Zhejiang Jiaao Enprotech Stock Co., Ltd"
+    },
+    {
+        "symbol": "300412.SZ",
+        "name": "Zhejiang Canaan Technology Limited"
+    },
+    {
+        "symbol": "300559.SZ",
+        "name": "Chengdu Jiafaantai Education Technology Co.,Ltd."
+    },
+    {
+        "symbol": "QGTA",
+        "name": "IQ Leaders GTAA Tracker ETF"
+    },
+    {
+        "symbol": "PORF.AS",
+        "name": "B.V. Delftsch Aardewerkfabriek \"De Porceleyne Fles Anno 1653\""
+    },
+    {
+        "symbol": "STO3.DE",
+        "name": "Sto SE & Co. KGaA"
+    },
+    {
+        "symbol": "KSB.DE",
+        "name": "KSB SE & Co. KGaA"
+    },
+    {
+        "symbol": "KSB3.DE",
+        "name": "KSB SE & Co. KGaA"
+    },
+    {
+        "symbol": "0G5B.L",
+        "name": "Sto SE & Co. KGaA"
+    },
+    {
+        "symbol": "FANG.L",
+        "name": "GraniteShares FAANG ETC"
+    },
+    {
+        "symbol": "NACP",
+        "name": "Impact Shares NAACP Minority Empowerment ETF"
+    },
+    {
+        "symbol": "IS0Z.DE",
+        "name": "iShares Global AAA-AA Govt Bond UCITS ETF USD (Dist)"
+    },
+    {
+        "symbol": "EDL.DE",
+        "name": "Edel SE & Co. KGaA"
+    },
+    {
+        "symbol": "IFCM3.SA",
+        "name": "Infracommerce CXaaS S.A."
+    },
+    {
+        "symbol": "BAIKLA.CO",
+        "name": "B\u00c3\u00a6redygtige Klimaaktier Akk. Kl"
+    },
+    {
+        "symbol": "BAIBDA.CO",
+        "name": "B\u00c3\u00a6redygtige Klimaaktier Akk. Kl"
+    },
+    {
+        "symbol": "600979.SS",
+        "name": "Sichuan Guangan Aaapublic Co.,Ltd"
+    },
+    {
+        "symbol": "GENK.BR",
+        "name": "Genk Logistics Naamloze vennootschap"
+    },
+    {
+        "symbol": "AVIV.TA",
+        "name": "Mordechai Aviv Taasiot Beniyah (1973) Ltd."
+    },
+    {
+        "symbol": "USTB",
+        "name": "VictoryShares USAA Core Short-Term Bond ETF"
+    },
+    {
+        "symbol": "ULVM",
+        "name": "VictoryShares USAA MSCI USA Value Momentum ETF"
+    },
+    {
+        "symbol": "UITB",
+        "name": "VictoryShares USAA Core Intermediate-Term Bond ETF"
+    },
+    {
+        "symbol": "USVM",
+        "name": "VictoryShares USAA MSCI USA Small Cap Value Momentum ETF"
+    },
+    {
+        "symbol": "UIVM",
+        "name": "VictoryShares USAA MSCI International Value Momentum ETF"
+    },
+    {
+        "symbol": "UEVM",
+        "name": "VictoryShares USAA MSCI Emerging Markets Value Momentum ETF"
+    },
+    {
+        "symbol": "2HRA.DE",
+        "name": "H&R GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "0RRC.L",
+        "name": "H&R GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "AVHNY",
+        "name": "Ackermans & Van Haaren NV"
+    },
+    {
+        "symbol": "AVHNF",
+        "name": "Ackermans & Van Haaren NV"
+    },
+    {
+        "symbol": "ACKB.BR",
+        "name": "Ackermans & Van Haaren NV"
+    },
+    {
+        "symbol": "SOTDF",
+        "name": "Str\u00c3\u00b6er SE & Co. KGaA"
+    },
+    {
+        "symbol": "SAX.DE",
+        "name": "Str\u00c3\u00b6er SE & Co. KGaA"
+    },
+    {
+        "symbol": "HENOY",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HENOF",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HENKY",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HEN.DE",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HEN3.SW",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HEN3.F",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HEN3.DE",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "HELKF",
+        "name": "Henkel AG & Co. KGaA"
+    },
+    {
+        "symbol": "COBH.BR",
+        "name": "Brouwerij Handelsmaatschappij NV"
+    },
+    {
+        "symbol": "8012.SR",
+        "name": "Aljazira Takaful Taawuni Company"
+    },
+    {
+        "symbol": "MUX.DE",
+        "name": "Mutares SE & Co. KGaA"
+    },
+    {
+        "symbol": "HLLGY",
+        "name": "HELLA GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "HLKHF",
+        "name": "HELLA GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "HLE.SW",
+        "name": "HELLA GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "HLE.DE",
+        "name": "HELLA GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "PEK",
+        "name": "VanEck Vectors ChinaAMC CSI 300 ETF"
+    },
+    {
+        "symbol": "IPCC.JK",
+        "name": "PT Indonesia Kendaraan Terminal Tbk"
+    },
+    {
+        "symbol": "TTRAK.IS",
+        "name": "T\u00c3\u00bcrk Trakt\u00c3\u00b6r ve Ziraat Makineleri A.S."
+    },
+    {
+        "symbol": "XCX.DU",
+        "name": "coinIX GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "MBK.DE",
+        "name": "Merkur PrivatBank KgaA"
+    },
+    {
+        "symbol": "MOP.BR",
+        "name": "Palmboomen Cultuur Maatschappij Mopoli (Palmeraies De Mopoli) N.V."
+    },
+    {
+        "symbol": "PGN.DE",
+        "name": "paragon GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "MLECO.PA",
+        "name": "Ecolutions GmbH&Co KGaA"
+    },
+    {
+        "symbol": "FSNUY",
+        "name": "Fresenius SE & Co. KGaA"
+    },
+    {
+        "symbol": "FSNUF",
+        "name": "Fresenius SE & Co. KGaA"
+    },
+    {
+        "symbol": "FRE.SW",
+        "name": "Fresenius SE & Co. KGaA"
+    },
+    {
+        "symbol": "FRE.DE",
+        "name": "Fresenius SE & Co. KGaA"
+    },
+    {
+        "symbol": "0NFG.L",
+        "name": "paragon GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "DWRKF",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "DRWKF",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "DRW8.DE",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "DRW3.DE",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "DGWPF",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "CWC.SW",
+        "name": "CEWE Stiftung & Co. KGaA"
+    },
+    {
+        "symbol": "CWC.DE",
+        "name": "CEWE Stiftung & Co. KGaA"
+    },
+    {
+        "symbol": "0MT8.L",
+        "name": "Dr\u00c3\u00a4gerwerk AG & Co. KGaA"
+    },
+    {
+        "symbol": "192090.KS",
+        "name": "Mirae Asset TIGER ChinaA300 ETF"
+    },
+    {
+        "symbol": "XBAT.DE",
+        "name": "Xtrackers II Eurozone AAA Government Bond Swap UCITS ETF"
+    },
+    {
+        "symbol": "EVD.DE",
+        "name": "CTS Eventim AG & Co. KGaA"
+    },
+    {
+        "symbol": "DWS.DE",
+        "name": "DWS Group GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "CEVMY",
+        "name": "CTS Eventim AG & Co. KGaA"
+    },
+    {
+        "symbol": "CEVMF",
+        "name": "CTS Eventim AG & Co. KGaA"
+    },
+    {
+        "symbol": "0SAY.L",
+        "name": "DWS Group GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "FTWO",
+        "name": "EA Series Trust Strive FAANG 2."
+    },
+    {
+        "symbol": "SFNG.L",
+        "name": "GraniteShares 1x Short FAANG Daily ETC"
+    },
+    {
+        "symbol": "3SFG.L",
+        "name": "GraniteShares 3x Short FAANG Daily ETC"
+    },
+    {
+        "symbol": "ULUSE.IS",
+        "name": "Ulusoy Elektrik Imalat Taahh\u00c3\u00bct ve Ticaret A.S."
+    },
+    {
+        "symbol": "XBAI.DE",
+        "name": "Xtrackers II - Eurozone AAA Government Bond Swap UCITS ETF"
+    },
+    {
+        "symbol": "1SXP.F",
+        "name": "SCHOTT Pharma AG & Co. KGaA"
+    },
+    {
+        "symbol": "GABUX",
+        "name": "Gabelli Utilities Fd Class AAA"
+    },
+    {
+        "symbol": "MCC.BR",
+        "name": "Immo Mechelen City Center Naamloze vennootschap"
+    },
+    {
+        "symbol": "HBH.DE",
+        "name": "HORNBACH Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "HBH3.SW",
+        "name": "HORNBACH Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "HBBHF",
+        "name": "HORNBACH Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "PRRCF",
+        "name": "ProCredit Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "PCZ.DE",
+        "name": "ProCredit Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "0RL9.L",
+        "name": "ProCredit Holding AG & Co. KGaA"
+    },
+    {
+        "symbol": "COP.DE",
+        "name": "CompuGroup Medical SE & Co. KGaA"
+    },
+    {
+        "symbol": "CMPVF",
+        "name": "CompuGroup Medical SE & Co. KGaA"
+    },
+    {
+        "symbol": "CMPUY",
+        "name": "CompuGroup Medical SE & Co. KGaA"
+    },
+    {
+        "symbol": "0MSD.L",
+        "name": "CompuGroup Medical SE & Co. KGaA"
+    },
+    {
+        "symbol": "GOLDX",
+        "name": "Gabelli Gold Fund, Inc. Class AAA"
+    },
+    {
+        "symbol": "GABGX",
+        "name": "The Gabelli Growth Fund Class AAA"
+    },
+    {
+        "symbol": "NCH2.DE",
+        "name": "thyssenkrupp nucera AG & Co. KGaA"
+    },
+    {
+        "symbol": "WESWX",
+        "name": "TETON Westwood Equity Fund Class AAA"
+    },
+    {
+        "symbol": "YAYLA.IS",
+        "name": "Yayla Enerji \u00c3\u0153retim Turizm ve Insaat Ticaret A.S."
+    },
+    {
+        "symbol": "FMS",
+        "name": "Fresenius Medical Care AG & Co. KGaA"
+    },
+    {
+        "symbol": "FME.SW",
+        "name": "Fresenius Medical Care AG & Co. KGaA"
+    },
+    {
+        "symbol": "FME.DE",
+        "name": "Fresenius Medical Care AG & Co. KGaA"
+    },
+    {
+        "symbol": "FMCQF",
+        "name": "Fresenius Medical Care AG & Co. KGaA"
+    },
+    {
+        "symbol": "VIGB.DE",
+        "name": "VanEck iBoxx EUR Sovereign Capped AAA-AA 1-5 UCITS ETF"
+    },
+    {
+        "symbol": "TAT.AS",
+        "name": "VanEck iBoxx EUR Sovereign Capped AAA-AA 1-5 UCITS ETF"
+    },
+    {
+        "symbol": "TAGB.L",
+        "name": "VanEck iBoxx EUR Sovereign Capped AAA-AA 1-5 UCITS ETF"
+    },
+    {
+        "symbol": "WEBAX",
+        "name": "TETON Westwood Balanced Fund Class AAA"
+    },
+    {
+        "symbol": "CLOA",
+        "name": "BlackRock ETF Trust II - BlackRock AAA CLO ETF"
+    },
+    {
+        "symbol": "HPBK.DE",
+        "name": "Heliad Equity Partners GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "GVCAX",
+        "name": "The Gabelli Value 25 Fund Inc. Class AAA"
+    },
+    {
+        "symbol": "GABBX",
+        "name": "The Gabelli Dividend Growth Fd Class AAA"
+    },
+    {
+        "symbol": "SGF.DE",
+        "name": "SGT German Private Equity GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "GAI.DE",
+        "name": "SGT German Private Equity GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "UEFY.DE",
+        "name": "UBS (Lux) Fund Solutions \u00e2\u20ac\u201c SBI Foreign AAA-BBB 1-5 ESG UCITS ETF"
+    },
+    {
+        "symbol": "UEFZ.DE",
+        "name": "UBS (Lux) Fund Solutions \u00e2\u20ac\u201c SBI Foreign AAA-BBB 5-10 ESG UCITS ETF"
+    },
+    {
+        "symbol": "AULRF",
+        "name": "AURELIUS Equity Opportunities SE & Co. KGaA"
+    },
+    {
+        "symbol": "AR4.DE",
+        "name": "AURELIUS Equity Opportunities SE & Co. KGaA"
+    },
+    {
+        "symbol": "WESRX",
+        "name": "TETON Convertible Securities Fund - Class AAA"
+    },
+    {
+        "symbol": "NC5A.DE",
+        "name": "NorCom Information Technology GmbH & Co. KGaA"
+    },
+    {
+        "symbol": "GIGRX",
+        "name": "Gabelli International Growth Fund, Inc. Class AAA"
+    },
+    {
+        "symbol": "GWSVX",
+        "name": "The Gabelli Focused Growth And Income Fund Class AAA"
+    },
+    {
+        "symbol": "ACAEUC.CO",
+        "name": "Aif-Vaerdipapirfonden Accunia Invest European Clo Aaa/Aa.(Kl)"
+    },
+    {
+        "symbol": "S6P.DE",
+        "name": "Spielvereinigung Unterhaching Fu\u00c3\u0178ball GmbH & Co. KGaA"
+    }
+]
