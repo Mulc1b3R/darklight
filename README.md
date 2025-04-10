@@ -33,7 +33,7 @@ The darklight engine has access to billions of data points and url's.
 <br>
 search tor; darknet keyword search returns onion urls as clickable links...1.25k data files (data...(search by 'keyword' or 'phrase'. ie:"dark market"
 <br>
-search relays ; search tor api for darknet relay details 8.5k...(internal api-'tor-api.json')...(search by 'relay'name.ie:"technofobe")
+search relays ; search tor api for darknet relay details 8.5k...(internal api-'tor-api.json')...(search by 'relay'name.ie:"technophobe")
 <br>
 search servers; search server details of the tor network 8.5k...(data)...(search by 'ip address'.ie: "5.189.155.39")
 <br>
