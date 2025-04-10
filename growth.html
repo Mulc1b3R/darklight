@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkLight-growth</title>
+	 <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image" a href="favicon.jpg">
+	<style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+			#tickerSymbol {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+		#searchQueryInput {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+	margin-right: 10px; /* Adjust the value to set the desired space between buttons */
+}
+#print-out {
+    font-family: monospace;
+    white-space: pre;
+    color: #ffffff; /* White text color */
+    background-color: #000000; /* Black background color */
+    padding: 10px; /* Add padding for better visibility */
+    margin-top: 10px; /* Adjust margin top as needed */
+}
+#clearButton {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttonRow {
+            display: flex;
+            justify-content: center;
+        }
+
+        .buttonRow button {
+            margin: 0 25px;  /* Add margin to create space between buttons */
+        }
+</style>
+
+</head>
+<body>
+<a href="metrics.html" style="position: absolute; top: 10px; left: 10px;">
+    <button style="your-button-styles-here">tor metrics</button>
+</a>
+<a href="search.html" style="position: absolute; top: 10px; right: 10px;">
+    <button style="your-button-styles-here">search tor</button>
+</a>
+<button id="clearButton" onclick="clearData()">Clear Data</button>
+<br><br><br><br><br><br>
+<center>
+    
+	 <input type="text" id="tickerSymbol" placeholder="Enter Ticker Symbol">
+    <button onclick="openAPIUrl()">Growth</button>
+    <br><br>
+</center>	
+	
+    <div id="quoteResults"></div>
+    <div id="print-out"></div>
+	
+    
+	
+<br><br>	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- Include script for search functionality -->
+	
+	<script src="js/welcome-growth.js"></script>
+	
+	<script>
+    function openAPIUrl() {
+        const baseUrl = 'https://financialmodelingprep.com/api/v3/financial-growth/';
+        const apiKey = 'XnmZbwL6vTyAKkkS8ZN6ddP44w7ivpFK';
+        const tickerSymbol = document.getElementById('tickerSymbol').value;
+
+        if (tickerSymbol.trim().toLowerCase() === 'data') {
+            loadDataFromJSON();
+        } else {
+            const apiUrl = `${baseUrl}${tickerSymbol}?&apikey=${apiKey}`;
+
+            fetch(apiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    if (data && data.length > 0) {
+                        displayQuoteResults(data[0]);
+                    } else {
+                        console.error('Error: No data found');
+                    }
+                })
+                .catch(error => console.error('Error:', error.message));
+        }
+    }
+
+    function clearData() {
+        const quoteResultsDiv = document.getElementById('quoteResults');
+        
+        // Clear the contents of the div
+        quoteResultsDiv.innerHTML = '';
+    }
+
+    function displayQuoteResults(quoteData) {
+        const quoteResultsDiv = document.getElementById('quoteResults');
+        if (!quoteData) {
+            quoteResultsDiv.innerHTML = '<p>Error: No quote data available</p>';
+            return;
+        }
+
+        quoteResultsDiv.innerHTML = `
+        <h2>Growth for ${quoteData.symbol}</h2>
+		<img src="https://financialmodelingprep.com/image-stock/${quoteData.symbol}.png"/>
+<p>Symbol: ${quoteData.symbol}</p>
+<p>Date: ${quoteData.date}</p>                                                         
+<p>Calendar Year: ${quoteData.calendarYear}</p>
+<p>Period: ${quoteData.period}</p>
+<p>Revenue Growth: ${quoteData.revenueGrowth}</p>
+<p>Gross Profit Growth: ${quoteData.grossProfitGrowth}</p>
+<p>EBIT Growth: ${quoteData.ebitgrowth}</p>
+<p>Operating Income Growth: ${quoteData.operatingIncomeGrowth}</p>
+<p>Net Income Growth: ${quoteData.netIncomeGrowth}</p>
+<p>EPS Growth: ${quoteData.epsgrowth}</p>
+<p>EPS Diluted Growth: ${quoteData.epsdilutedGrowth}</p>
+<p>Weighted Average Shares Growth: ${quoteData.weightedAverageSharesGrowth}</p>
+<p>Weighted Average Shares Diluted Growth: ${quoteData.weightedAverageSharesDilutedGrowth}</p>
+<p>Dividends Per Share Growth: ${quoteData.dividendsperShareGrowth}</p>
+<p>Operating Cash Flow Growth: ${quoteData.operatingCashFlowGrowth}</p>
+<p>Free Cash Flow Growth: ${quoteData.freeCashFlowGrowth}</p>
+<p>Ten-Year Revenue Growth Per Share: ${quoteData.tenYRevenueGrowthPerShare}</p>
+<p>Five-Year Revenue Growth Per Share: ${quoteData.fiveYRevenueGrowthPerShare}</p>
+<p>Three-Year Revenue Growth Per Share: ${quoteData.threeYRevenueGrowthPerShare}</p>
+<p>Ten-Year Operating Cash Flow Growth Per Share: ${quoteData.tenYOperatingCFGrowthPerShare}</p>
+<p>Five-Year Operating Cash Flow Growth Per Share: ${quoteData.fiveYOperatingCFGrowthPerShare}</p>
+<p>Three-Year Operating Cash Flow Growth Per Share: ${quoteData.threeYOperatingCFGrowthPerShare}</p>
+<p>Ten-Year Net Income Growth Per Share: ${quoteData.tenYNetIncomeGrowthPerShare}</p>
+<p>Five-Year Net Income Growth Per Share: ${quoteData.fiveYNetIncomeGrowthPerShare}</p>
+<p>Three-Year Net Income Growth Per Share: ${quoteData.threeYNetIncomeGrowthPerShare}</p>
+<p>Ten-Year Shareholders Equity Growth Per Share: ${quoteData.tenYShareholdersEquityGrowthPerShare}</p>
+<p>Five-Year Shareholders Equity Growth Per Share: ${quoteData.fiveYShareholdersEquityGrowthPerShare}</p>
+<p>Three-Year Shareholders Equity Growth Per Share: ${quoteData.threeYShareholdersEquityGrowthPerShare}</p>
+<p>Ten-Year Dividend Per Share Growth Per Share: ${quoteData.tenYDividendperShareGrowthPerShare}</p>
+<p>Five-Year Dividend Per Share Growth Per Share: ${quoteData.fiveYDividendperShareGrowthPerShare}</p>
+<p>Three-Year Dividend Per Share Growth Per Share: ${quoteData.threeYDividendperShareGrowthPerShare}</p>
+<p>Receivables Growth: ${quoteData.receivablesGrowth}</p>
+<p>Inventory Growth: ${quoteData.inventoryGrowth}</p>
+<p>Asset Growth: ${quoteData.assetGrowth}</p>
+<p>Book Value Per Share Growth: ${quoteData.bookValueperShareGrowth}</p>
+<p>Debt Growth: ${quoteData.debtGrowth}</p>
+<p>R&D Expense Growth: ${quoteData.rdexpenseGrowth}</p>
+<p>SGA Expenses Growth: ${quoteData.sgaexpensesGrowth}</p>
+`;
+}	
+	</script>
+	
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 
+	 <div id="buttonRow" style="display: flex; justify-content: center;">
+        
+        <button onclick="window.location.href='finance.html'">finance</button>
+		<button onclick="window.location.href='top.html'">gainers and losers</button>
+		<button onclick="window.location.href='stocks.html'">stock list</button>
+		<button onclick="window.location.href='ratings.html'">ratings</button>
+		<button onclick="window.location.href='chart.html'">charts</button>
+		<button onclick="window.location.href='income.html'">income statements</button>
+		<button onclick="window.location.href='balance.html'">balance sheets</button>
+		<button onclick="window.location.href='key-metrics.html'">key metrics</button>
+		<button onclick="window.location.href='profile.html'">company profile</button>
+		<button onclick="window.location.href='sec.html'">SEC filings</button>
+		<button onclick="window.location.href='news.html'">finance news</button>
+		
+		
+    </div>
+
+	
+</body>
+</html>

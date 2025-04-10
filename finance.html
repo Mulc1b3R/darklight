@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkLight-finance</title>
+	 <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image" a href="favicon.jpg">
+	<style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+			#tickerSymbol {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+		#searchQueryInput {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+	margin-right: 10px; /* Adjust the value to set the desired space between buttons */
+}
+#print-out {
+    font-family: monospace;
+    white-space: pre;
+    color: #ffffff; /* White text color */
+    background-color: #000000; /* Black background color */
+    padding: 10px; /* Add padding for better visibility */
+    margin-top: 10px; /* Adjust margin top as needed */
+}
+#clearButton {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttonRow {
+            display: flex;
+            justify-content: center;
+        }
+
+        .buttonRow button {
+            margin: 0 25px;  /* Add margin to create space between buttons */
+        }
+</style>
+
+</head>
+<body>
+<a href="metrics.html" style="position: absolute; top: 10px; left: 10px;">
+    <button style="your-button-styles-here">tor metrics</button>
+</a>
+<a href="search.html" style="position: absolute; top: 10px; right: 10px;">
+    <button style="your-button-styles-here">search tor</button>
+</a>
+<button id="clearButton" onclick="clearData()">Clear Data</button>
+<br><br><br><br><br><br>
+<center>
+    
+	 <input type="text" id="tickerSymbol" placeholder="Enter Ticker Symbol">
+    <button onclick="openAPIUrl()">Get Quote</button>
+    <br><br>
+</center>	
+		
+    <div id="quoteResults"></div>
+	<div id="print-out"></div>
+	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- Include script for search functionality -->
+	
+	<script src="js/welcome-finance.js"></script>
+	
+	
+
+<script>
+    function loadDataFromJSON() {
+        fetch('tickers.json')
+            .then(response => response.json())
+            .then(data => {
+                displayDataResults(data);
+            })
+            .catch(error => console.error('Error fetching JSON:', error));
+    }
+	
+
+    function openAPIUrl() {
+        const baseUrl = 'https://financialmodelingprep.com/api/v3/quote/';
+        const apiKey = 'XnmZbwL6vTyAKkkS8ZN6ddP44w7ivpFK';
+        const tickerSymbol = document.getElementById('tickerSymbol').value;
+
+        if (tickerSymbol.trim().toLowerCase() === 'data') {
+            loadDataFromJSON();
+        } else {
+            const apiUrl = `${baseUrl}${tickerSymbol}?apikey=${apiKey}`;
+
+            fetch(apiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    displayQuoteResults(data[0]);
+                })
+                .catch(error => console.error('Error:', error));
+        }
+    }
+
+    function clearData() {
+        const quoteResultsDiv = document.getElementById('quoteResults');
+        
+        // Clear the contents of the div
+        quoteResultsDiv.innerHTML = '';
+    }
+
+    function displayDataResults(jsonData) {
+        const quoteResultsDiv = document.getElementById('quoteResults');
+        quoteResultsDiv.innerHTML = '<h2>Ticker symbols...</h2>';
+
+        jsonData.forEach(item => {
+            quoteResultsDiv.innerHTML += `<p>Symbol: ${item.symbol}, Name: ${item.name}</p>`;
+        });
+    }
+
+    function displayQuoteResults(quoteData) {
+        const quoteResultsDiv = document.getElementById('quoteResults');
+        quoteResultsDiv.innerHTML = `<h2>Quote for ${quoteData.symbol}</h2>
+		<br>
+		<img src="https://financialmodelingprep.com/image-stock/${quoteData.symbol}.png"/>
+		<br>
+        <p><h3>Company Name: ${quoteData.name}</h3></p>
+        <p><h3>Price: ${quoteData.price}</h3></p>
+		<p><h3>% change: ${quoteData.changesPercentage}</h3></p>
+        <p><h3>Change: ${quoteData.change}</h3></p>
+		<p><h3>Day Low: ${quoteData.dayLow}</h3></p>
+		<p><h3>Day High: ${quoteData.dayHigh}</h3></p>
+		<p><h3>Year High: ${quoteData.yearHigh}</h3></p>
+		<p><h3>Year Low: ${quoteData.yearLow}</h3></p>
+		<p><h3>Market Cap: ${quoteData.marketCap}</h3></p>
+		<p><h3>Price Average 50: ${quoteData.priceAvg50}</h3></p>
+		<p><h3>Price Average 200: ${quoteData.priceAvg200}</h3></p>
+		<p><h3>Exchange: ${quoteData.exchange}</h3></p>
+		<p><h3>Volume: ${quoteData.volume}</h3></p>
+		<p><h3>Average Volume: ${quoteData.avgVolume}</h3></p>
+		<p><h3>Open: ${quoteData.open}</h3></p>
+		<p><h3>Previous Close: ${quoteData.previousClose}</h3></p>
+		<p><h3>EPS: ${quoteData.eps}</h3></p>
+		<p><h3>PE: ${quoteData.pe}</h3></p>
+		<p><h3>Earnings Announcement: ${quoteData.earningsAnnouncement}</h3></p>
+		<p><h3>Shares Outstanding: ${quoteData.sharesOutstanding}</h3></p>
+		<p><h3>Timestamp: ${quoteData.timestamp}</h3></p>`;
+		
+		
+    }
+</script>
+
+	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 
+	 <div id="buttonRow" style="display: flex; justify-content: center;">
+         <button onclick="window.location.href='etf.html'">etf list</button>
+		<button onclick="window.location.href='stocks.html'">stock list</button>
+		<button onclick="window.location.href='crypto-list.html'">crypto list</button>
+		<button onclick="window.location.href='crypto.html'">crypto</button>
+		<button onclick="window.location.href='top.html'">top gainers and losers</button>
+		<button onclick="window.location.href='download.html'">download historical data</button>
+		<button onclick="window.location.href='options/options.html'">options chains</button>
+		<button onclick="window.location.href='ratings.html'">ratings</button>
+		    </div><br>
+     <div id="buttonRow2" style="display: flex; justify-content: center;">
+	 <button onclick="window.location.href='chart.html'">charts</button>
+		<button onclick="window.location.href='growth.html'">company growth</button>
+		<button onclick="window.location.href='income.html'">income statements</button>
+		<button onclick="window.location.href='balance.html'">balance sheets</button>
+		<button onclick="window.location.href='key-metrics.html'">key metrics</button>
+		<button onclick="window.location.href='profile.html'">company profile</button>
+		<button onclick="window.location.href='sec.html'">SEC filings</button>
+		<button onclick="window.location.href='news.html'">finance news</button>
+		</div>
+	
+</body>
+</html>
