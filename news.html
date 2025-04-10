@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<!-- Darkligh Engine-by Psico communications- written by Mulciber and Xendog -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkLight-finance news</title>
+	 
+	<link rel="icon" type="image" a href="favicon.jpg">
+	 
+	 
+	<style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+			#tickerSymbol {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+		#searchQueryInput {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+	margin-right: 10px; /* Adjust the value to set the desired space between buttons */
+}
+#print-out {
+    font-family: monospace;
+    white-space: pre;
+    color: #ffffff; /* White text color */
+    background-color: #000000; /* Black background color */
+    padding: 10px; /* Add padding for better visibility */
+    margin-top: 10px; /* Adjust margin top as needed */
+}
+#clearButton {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttonRow {
+            display: flex;
+            justify-content: center;
+        }
+
+        .buttonRow button {
+            margin: 0 25px;  /* Add margin to create space between buttons */
+        }
+		 
+</style>
+
+</head>
+
+<body>
+<a href="search.html" style="position: absolute; top: 10px; right: 10px;">
+    <button style="your-button-styles-here">search tor</button>
+</a>
+ <button onclick="goBack()" style="position: absolute; top: 10px; left: 10px;">Go Back</button>
+<br><br>
+  <center>  <button id="fetchNewsButton">Fetch News articles</button><a href="box.html"><button>XML industry sector DataFeeds</button>
+</a>
+  
+ <button id="clearButton" onclick="clearData()">Clear Data</button>
+</center>
+<br><br>
+    <div id="newsContent"></div>
+	<div id="print-out"></div>
+
+   <script>
+    document.getElementById("fetchNewsButton").addEventListener("click", function() {
+        fetchNews();
+    });
+
+    function fetchNews() {
+        const apiKey = "XnmZbwL6vTyAKkkS8ZN6ddP44w7ivpFK";
+        const apiUrl = `https://financialmodelingprep.com/api/v3/fmp/articles?page=0&size=5&apikey=${apiKey}`;
+
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => displayNews(data))
+            .catch(error => console.error('Error fetching news:', error));
+    }
+
+    function displayNews(data) {
+        const news = data.content; // Accessing the "content" array from the JSON response
+        const newsContentDiv = document.getElementById("newsContent");
+        newsContentDiv.innerHTML = '';
+
+        if (Array.isArray(news)) {
+            news.forEach(article => {
+                const articleDiv = document.createElement("div");
+                articleDiv.innerHTML = `
+                    <h2>${article.title}</h2>
+                    <p>Date: ${article.date}</p>
+                    <p>${article.content}</p>
+                    <p>Tickers: ${article.tickers}</p>
+                    <img src="${article.image}" alt="Article Image">
+                    <a href="${article.link}" target="_blank">Read More</a>
+                    <p>Author: ${article.author}</p>
+                    <p>Site: ${article.site}</p>
+                    <hr>
+                `;
+                newsContentDiv.appendChild(articleDiv);
+            });
+        } else {
+            newsContentDiv.innerHTML = "No news articles available.";
+        }
+    }
+</script>
+<script>
+	function clearData() {
+        const quoteResultsDiv = document.getElementById('newsContent');
+        
+        // Clear the contents of the div
+        quoteResultsDiv.innerHTML = '';
+    }
+	</script>
+	 <script>
+        // Function to navigate back to the previous page
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+<br><br>	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- Include script for print out info -->
+	<script src="js/welcome-news.js"></script>
+	<script src="js/welcome-industry-feeds.js"></script>
+	<br><br><br><br>
+	<hr>
+	<div id="buttonRow" style="display: flex; justify-content: center;">
+        <button onclick="window.location.href='search.html'">search tor</button>
+        
+        <button onclick="window.location.href='libris.html'">project gutenberg</button>
+        <button onclick="window.location.href='wiki-search.html'">wikipedia</button>
+		<button onclick="window.location.href='sourceforge.html'">sourceforge</button>
+		<button onclick="window.location.href='wayback.html'">internet archive</button>
+		<button onclick="window.location.href='git.html'">github</button>
+		<button onclick="window.location.href='archive.html'">dark markets archive</button>
+		<button onclick="window.location.href='finance.html'">finance</button>
+		
+    </div>
+	
+	
+</body>
+
+</html>

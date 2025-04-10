@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkLight Wikipedia</title>
+	 <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image" a href="favicon.jpg">
+	<style>
+
+      body {
+			background:black;
+		    color: white;
+      }
+	   video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translate(-50%, -50%);
+            z-index: -1000;
+			}
+	
+		#searchInput {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Text color */
+    border: 2px solid #3d7ea6; /* Border color */
+    border-radius: 25px; /* Rounded corners */
+    padding: 15px 20px; /* Padding around the input box */
+    width: 600px; /* Set width as needed */
+    font-size: 16px; /* Font size */
+    margin-right: 10px; /* Margin between input and button */
+}
+
+button {
+    background-color: #3d7a6b; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 15px 20px; /* Padding around the button */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-size: 16px; /* Font size */
+	margin-right: 10px; /* Adjust the value to set the desired space between buttons */
+}
+#print-out {
+    font-family: monospace;
+    white-space: pre;
+    color: #ffffff; /* White text color */
+    background-color: #000000; /* Black background color */
+    padding: 10px; /* Add padding for better visibility */
+    margin-top: 10px; /* Adjust margin top as needed */
+}
+#clearButton {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttonRow {
+            display: flex;
+            justify-content: center;
+        }
+
+        .buttonRow button {
+            margin: 0 25px;  /* Add margin to create space between buttons */
+        }
+
+</style>
+
+</head>
+<body>
+<button id="clearButton" onclick="clearData()">Clear Data</button>
+<br><br><br><br><br><br><br><br><center>
+    
+    <div>
+        <input type="text" id="searchInput" placeholder="Enter your search term">
+        <button onclick="searchWikipedia()">Search</button>
+    </div>
+	<br><br><br><br>
+    <div id="searchResults"></div>
+	<div id="print-out"></div>
+</center>
+<br><br>	
+<video autoplay loop muted>
+        <source src="orb.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+     <script>
+        function searchWikipedia() {
+            const searchQuery = document.getElementById('searchInput').value;
+            const url = `https://en.wikipedia.org/wiki/${searchQuery}`;
+        
+            // Clear previous search results
+            document.getElementById('searchResults').innerHTML = '';
+        
+            // Create an iframe and load the Wikipedia page
+            const iframe = document.createElement('iframe');
+            iframe.src = url;
+            iframe.style.width = '100%';
+            iframe.style.height = '100vh';
+        
+            document.getElementById('searchResults').appendChild(iframe);
+        }
+
+        function clearData() {
+            const searchResultsDiv = document.getElementById('searchResults');
+            searchResultsDiv.innerHTML = '';
+	}
+	</script>
+	
+	<script src="js/welcome-wiki.js"></script>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+	<div id="buttonRow" style="display: flex; justify-content: center;">
+        <button onclick="window.location.href='search.html'">search tor</button>
+        <button onclick="window.location.href='metrics.html'">tor relays</button>
+        <button onclick="window.location.href='server.html'">tor servers</button>
+        <button onclick="window.location.href='libris.html'">project gutenberg</button>
+        <button onclick="window.location.href='wiki-search.html'">wikipedia</button>
+		<button onclick="window.location.href='sourceforge.html'">sourceforge</button>
+		<button onclick="window.location.href='wayback.html'">internet archive</button>
+		<button onclick="window.location.href='git.html'">github</button>
+		<button onclick="window.location.href='archive.html'">dark markets archive</button>
+		<button onclick="window.location.href='finance.html'">finance</button>
+		<button onclick="window.location.href='api-data.html'">api's</button>
+    </div>
+
+</center>	
+ </body>
+  
+  
+</html>
